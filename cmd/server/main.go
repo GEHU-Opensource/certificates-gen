@@ -71,7 +71,10 @@ func main() {
 	defer pdfGen.Close()
 
 	emailService := email.NewService(
-		cfg.Email.SendGridKey,
+		cfg.Email.SMTPHost,
+		cfg.Email.SMTPPort,
+		cfg.Email.SMTPUser,
+		cfg.Email.SMTPPassword,
 		cfg.Email.FromEmail,
 		cfg.Email.FromName,
 	)

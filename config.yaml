@@ -19,13 +19,13 @@ redis:
   db: 0
 
 email:
-  provider: "sendgrid"
+  provider: "gmail"
   sendgrid_key: ""
-  smtp_host: ""
+  smtp_host: "smtp.gmail.com"
   smtp_port: 587
   smtp_user: ""
   smtp_password: ""
-  from_email: "noreply@example.com"
+  from_email: ""
   from_name: "Certificate Service"
 
 storage:

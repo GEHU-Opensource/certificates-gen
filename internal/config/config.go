@@ -103,6 +103,25 @@ func LoadConfig(path string) (*Config, error) {
 		config.Email.SendGridKey = v
 	}
 
+	if v := os.Getenv("SMTP_HOST"); v != "" {
+		config.Email.SMTPHost = v
+	}
+	if v := os.Getenv("SMTP_PORT"); v != "" {
+		fmt.Sscanf(v, "%d", &config.Email.SMTPPort)
+	}
+	if v := os.Getenv("SMTP_USER"); v != "" {
+		config.Email.SMTPUser = v
+	}
+	if v := os.Getenv("SMTP_PASSWORD"); v != "" {
+		config.Email.SMTPPassword = v
+	}
+	if v := os.Getenv("FROM_EMAIL"); v != "" {
+		config.Email.FromEmail = v
+	}
+	if v := os.Getenv("FROM_NAME"); v != "" {
+		config.Email.FromName = v
+	}
+
 	if v := os.Getenv("REDIS_HOST"); v != "" {
 		config.Redis.Host = v
 	}
