@@ -10,18 +10,18 @@ import (
 	"syscall"
 	"time"
 
+	"certificate-service/internal/config"
+	"certificate-service/internal/handlers"
+	"certificate-service/internal/models"
+	"certificate-service/internal/queue"
+	"certificate-service/internal/services"
+	"certificate-service/internal/storage"
+	"certificate-service/pkg/email"
+	"certificate-service/pkg/pdf"
 	"github.com/gin-gonic/gin"
 	"github.com/go-redis/redis/v8"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
-	"github.com/mglsj/certificate-service/internal/config"
-	"github.com/mglsj/certificate-service/internal/handlers"
-	"github.com/mglsj/certificate-service/internal/models"
-	"github.com/mglsj/certificate-service/internal/queue"
-	"github.com/mglsj/certificate-service/internal/services"
-	"github.com/mglsj/certificate-service/internal/storage"
-	"github.com/mglsj/certificate-service/pkg/email"
-	"github.com/mglsj/certificate-service/pkg/pdf"
 )
 
 func main() {

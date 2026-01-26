@@ -21,32 +21,32 @@ type HTMLGenerator struct {
 }
 
 type CertificateData struct {
-	Name           string
-	StudentID      string
-	Course         string
-	Event          string
-	Club           string
-	Date           string
+	Name            string
+	StudentID       string
+	Course          string
+	Event           string
+	Club            string
+	Date            string
 	SideDesignImage string
-	OrgLogo        string
-	ClubLogo       string
+	OrgLogo         string
+	ClubLogo        string
 	Signature1Image string
 	Signature2Image string
 	Signature3Image string
 	Signature4Image string
-	Signer1Title   string
-	Signer2Title   string
-	Signer3Title   string
-	Signer4Title   string
+	Signer1Title    string
+	Signer2Title    string
+	Signer3Title    string
+	Signer4Title    string
 }
 
 func NewHTMLGenerator(templatesDir string) (*HTMLGenerator, error) {
 	launcher := launcher.New().
+		Bin("/usr/bin/chromium").
 		Headless(true).
-		Set("disable-gpu").
 		Set("no-sandbox").
 		Set("disable-dev-shm-usage")
-	
+
 	url, err := launcher.Launch()
 	if err != nil {
 		return nil, fmt.Errorf("failed to launch browser: %w", err)
@@ -96,11 +96,11 @@ func (g *HTMLGenerator) GenerateWithTemplate(templateName string, data map[strin
 	page.MustSetDocumentContent(htmlContent)
 	page.MustWaitLoad()
 	page.MustWaitStable()
-	
+
 	page.MustEval(`() => {
 		return document.fonts.ready;
 	}`)
-	
+
 	page.MustEval(`() => new Promise(resolve => setTimeout(resolve, 300))`)
 
 	paperWidth := 8.27
@@ -111,14 +111,14 @@ func (g *HTMLGenerator) GenerateWithTemplate(templateName string, data map[strin
 	marginLeft := 0.0
 
 	stream, err := page.PDF(&proto.PagePrintToPDF{
-		PaperWidth:        &paperWidth,
-		PaperHeight:       &paperHeight,
-		MarginTop:         &marginTop,
-		MarginRight:       &marginRight,
-		MarginBottom:      &marginBottom,
-		MarginLeft:        &marginLeft,
-		PrintBackground:   true,
-		PreferCSSPageSize: false,
+		PaperWidth:          &paperWidth,
+		PaperHeight:         &paperHeight,
+		MarginTop:           &marginTop,
+		MarginRight:         &marginRight,
+		MarginBottom:        &marginBottom,
+		MarginLeft:          &marginLeft,
+		PrintBackground:     true,
+		PreferCSSPageSize:   false,
 		DisplayHeaderFooter: false,
 	})
 	if err != nil {
@@ -135,25 +135,23 @@ func (g *HTMLGenerator) GenerateWithTemplate(templateName string, data map[strin
 
 func (g *HTMLGenerator) prepareDataWithImages(data map[string]string) CertificateData {
 	certData := CertificateData{
-		Name:           getOrDefault(data, "name", ""),
-		StudentID:      getOrDefault(data, "student_id", ""),
-		Course:         getOrDefault(data, "course", ""),
-		Event:          getOrDefault(data, "event", ""),
-		Club:           getOrDefault(data, "club", ""),
-		Date:           getOrDefault(data, "date", ""),
-		Signer1Title:   getOrDefault(data, "signer1_title", "Event Coordinator"),
-		Signer2Title:   getOrDefault(data, "signer2_title", "Head Of Department\n(CSE)"),
-		Signer3Title:   getOrDefault(data, "signer3_title", "Head Of Department\n(SOC)"),
-		Signer4Title:   getOrDefault(data, "signer4_title", "Director,\nHaldwani Campus"),
+		Name:         getOrDefault(data, "name", ""),
+		StudentID:    getOrDefault(data, "student_id", ""),
+		Course:       getOrDefault(data, "course", ""),
+		Event:        getOrDefault(data, "event", ""),
+		Club:         getOrDefault(data, "club", ""),
+		Date:         getOrDefault(data, "date", ""),
+		Signer1Title: getOrDefault(data, "signer1_title", "Event Coordinator"),
+		Signer2Title: getOrDefault(data, "signer2_title", "Head Of Department\n(CSE)"),
+		Signer3Title: getOrDefault(data, "signer3_title", "Director,\nBhimtal Campus"),
 	}
 
 	sideDesign := getOrDefault(data, "side_design", "side.svg")
-	orgLogo := getOrDefault(data, "org_logo", "gehu-haldwani-logo.svg")
+	orgLogo := getOrDefault(data, "org_logo", "gehu-bhimtal-logo.svg")
 	clubLogo := getOrDefault(data, "club_logo", "club.svg")
 	sig1 := getOrDefault(data, "signature1", "cc.png")
 	sig2 := getOrDefault(data, "signature2", "hod_cse.png")
-	sig3 := getOrDefault(data, "signature3", "hod_soc.png")
-	sig4 := getOrDefault(data, "signature4", "hld_dir.png")
+	sig3 := getOrDefault(data, "signature3", "btl_dir.png")
 
 	certData.SideDesignImage = g.getImageDataURI(sideDesign)
 	certData.OrgLogo = g.getImageDataURI(orgLogo)
@@ -161,19 +159,22 @@ func (g *HTMLGenerator) prepareDataWithImages(data map[string]string) Certificat
 	certData.Signature1Image = g.getImageDataURI(sig1)
 	certData.Signature2Image = g.getImageDataURI(sig2)
 	certData.Signature3Image = g.getImageDataURI(sig3)
-	certData.Signature4Image = g.getImageDataURI(sig4)
 
 	return certData
 }
 
 func (g *HTMLGenerator) getImageDataURI(filename string) string {
+	if filename == "" {
+		return ""
+	}
+
 	possiblePaths := []string{
 		filepath.Join(g.templatesDir, "images", filename),
 		filepath.Join(g.templatesDir, filename),
 	}
 
 	for _, path := range possiblePaths {
-		if _, err := os.Stat(path); err == nil {
+		if info, err := os.Stat(path); err == nil && !info.IsDir() {
 			dataURI, err := g.fileToDataURI(path)
 			if err == nil && dataURI != "" {
 				return dataURI
@@ -185,19 +186,15 @@ func (g *HTMLGenerator) getImageDataURI(filename string) string {
 }
 
 func (g *HTMLGenerator) fileToDataURI(filePath string) (string, error) {
-	if !filepath.IsAbs(filePath) {
-		filePath = filepath.Join(g.templatesDir, filePath)
-	}
-
 	data, err := os.ReadFile(filePath)
 	if err != nil {
 		return "", err
 	}
 
 	mimeType := "image/png"
-	if strings.HasSuffix(filePath, ".svg") {
+	if strings.HasSuffix(strings.ToLower(filePath), ".svg") {
 		mimeType = "image/svg+xml"
-	} else if strings.HasSuffix(filePath, ".jpg") || strings.HasSuffix(filePath, ".jpeg") {
+	} else if strings.HasSuffix(strings.ToLower(filePath), ".jpg") || strings.HasSuffix(strings.ToLower(filePath), ".jpeg") {
 		mimeType = "image/jpeg"
 	}
 

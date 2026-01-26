@@ -5,9 +5,10 @@ import (
 	"net/http"
 	"strconv"
 
+	"certificate-service/internal/models"
+
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
-	"github.com/mglsj/certificate-service/internal/models"
 )
 
 type TemplateHandler struct {

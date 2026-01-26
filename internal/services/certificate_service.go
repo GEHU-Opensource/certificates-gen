@@ -6,13 +6,14 @@ import (
 	"fmt"
 	"time"
 
-	"gorm.io/gorm"
+	"certificate-service/internal/models"
+	"certificate-service/internal/queue"
+	"certificate-service/internal/storage"
+	"certificate-service/pkg/email"
+	"certificate-service/pkg/pdf"
+
 	"gorm.io/datatypes"
-	"github.com/mglsj/certificate-service/internal/models"
-	"github.com/mglsj/certificate-service/internal/queue"
-	"github.com/mglsj/certificate-service/internal/storage"
-	"github.com/mglsj/certificate-service/pkg/email"
-	"github.com/mglsj/certificate-service/pkg/pdf"
+	"gorm.io/gorm"
 )
 
 type CertificateService struct {
@@ -199,21 +200,19 @@ func (s *CertificateService) processCertificateJob(ctx context.Context, job queu
 	}
 
 	data := map[string]string{
-		"name":         certificate.Recipient.Name,
-		"email":        certificate.Recipient.Email,
-		"course":       certificate.Recipient.Course,
-		"event":        certificate.Recipient.Event,
-		"club":         certificate.Recipient.Club,
-		"date":         certificate.Recipient.Date,
-		"student_id":   certificate.Recipient.StudentID,
+		"name":          certificate.Recipient.Name,
+		"email":         certificate.Recipient.Email,
+		"course":        certificate.Recipient.Course,
+		"event":         certificate.Recipient.Event,
+		"club":          certificate.Recipient.Club,
+		"date":          certificate.Recipient.Date,
+		"student_id":    certificate.Recipient.StudentID,
 		"signer1_name":  getStringFromMetadata(certificate.Recipient.Metadata, "signer1_name", ""),
 		"signer1_title": getStringFromMetadata(certificate.Recipient.Metadata, "signer1_title", "Event Coordinator"),
 		"signer2_name":  getStringFromMetadata(certificate.Recipient.Metadata, "signer2_name", ""),
 		"signer2_title": getStringFromMetadata(certificate.Recipient.Metadata, "signer2_title", "Head Of Department\n(CSE)"),
 		"signer3_name":  getStringFromMetadata(certificate.Recipient.Metadata, "signer3_name", ""),
-		"signer3_title": getStringFromMetadata(certificate.Recipient.Metadata, "signer3_title", "Head Of Department\n(SOC)"),
-		"signer4_name":  getStringFromMetadata(certificate.Recipient.Metadata, "signer4_name", ""),
-		"signer4_title": getStringFromMetadata(certificate.Recipient.Metadata, "signer4_title", "Director,\nHaldwani Campus"),
+		"signer3_title": getStringFromMetadata(certificate.Recipient.Metadata, "signer3_title", "Director,\nBhimtal Campus"),
 	}
 
 	if sideDesign, ok := templateConfig["side_design"].(string); ok {
@@ -245,8 +244,12 @@ func (s *CertificateService) processCertificateJob(ctx context.Context, job queu
 		return fmt.Errorf("failed to generate PDF: %w", err)
 	}
 
-	filename := fmt.Sprintf("certificate-%d.pdf", certificate.ID)
-	filePath, err := s.storage.Save(pdfData, filename)
+	eventName := certificate.Recipient.Event
+	if eventName == "" {
+		eventName = "default"
+	}
+
+	filePath, err := s.storage.Save(pdfData, eventName, certificate.Recipient.Name, certificate.Recipient.Email)
 	if err != nil {
 		s.db.Model(&certificate).Update("status", "failed")
 		s.updateBatchOnFailure(job)
@@ -360,7 +363,7 @@ func (s *CertificateService) processEmailJob(ctx context.Context, job queue.Job)
 
 	var emailTemplate models.EmailTemplate
 	var emailTemplateID uint
-	
+
 	if templateIDRaw, ok := job.Data["email_template_id"]; ok && templateIDRaw != nil {
 		switch v := templateIDRaw.(type) {
 		case float64:
@@ -417,18 +420,18 @@ func getStringFromMetadata(metadataJSON datatypes.JSON, key, defaultValue string
 	if len(metadataJSON) == 0 {
 		return defaultValue
 	}
-	
+
 	var metadata map[string]interface{}
 	if err := json.Unmarshal(metadataJSON, &metadata); err != nil {
 		return defaultValue
 	}
-	
+
 	if val, ok := metadata[key]; ok {
 		if str, ok := val.(string); ok {
 			return str
 		}
 	}
-	
+
 	return defaultValue
 }
 

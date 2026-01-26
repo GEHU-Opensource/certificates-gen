@@ -181,7 +181,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"name\": \"Custom Certificate\",\n  \"description\": \"Custom certificate template\",\n  \"config\": {\n    \"template_name\": \"certificate.html\",\n    \"side_design\": \"side.svg\",\n    \"org_logo\": \"gehu-haldwani-logo.svg\",\n    \"club_logo\": \"club.svg\",\n    \"signature1\": \"cc.png\",\n    \"signature2\": \"hod_cse.png\",\n    \"signature3\": \"hod_soc.png\",\n    \"signature4\": \"hld_dir.png\"\n  }\n}"
+							"raw": "{\n  \"name\": \"Custom Certificate\",\n  \"description\": \"Custom certificate template\",\n  \"config\": {\n    \"template_name\": \"certificate.html\",\n    \"side_design\": \"side.svg\",\n    \"org_logo\": \"gehu-bhimtal-logo.svg\",\n    \"club_logo\": \"club.svg\",\n    \"signature1\": \"cc.png\",\n    \"signature2\": \"hod_cse.png\",\n    \"signature3\": \"hld_dir.png\",\n}\n}"
 						},
 						"url": {
 							"raw": "{{base_url}}/api/v1/templates",

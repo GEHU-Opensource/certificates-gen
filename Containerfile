@@ -1,4 +1,4 @@
-FROM golang:1.21-alpine AS builder
+FROM golang:1.23-alpine AS builder
 
 WORKDIR /app
 
@@ -23,8 +23,9 @@ RUN apk --no-cache add \
     ttf-freefont
 
 # Set Chrome path for go-rod
-ENV CHROME_BIN=/usr/bin/chromium-browser
-ENV CHROME_PATH=/usr/bin/chromium-browser
+ENV ROD_BROWSER_BIN=/usr/bin/chromium
+ENV CHROME_BIN=/usr/bin/chromium
+ENV CHROME_PATH=/usr/bin/chromium
 
 WORKDIR /root/
 

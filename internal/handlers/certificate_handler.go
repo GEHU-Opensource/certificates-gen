@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strconv"
 
+	"certificate-service/internal/models"
+	"certificate-service/internal/services"
 	"github.com/gin-gonic/gin"
-	"github.com/mglsj/certificate-service/internal/models"
-	"github.com/mglsj/certificate-service/internal/services"
 )
 
 type CertificateHandler struct {
