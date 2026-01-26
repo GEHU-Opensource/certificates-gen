@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+vendor/
+.git
+.gitignore
+*.log
+.env
+.DS_Store
+storage/
+bin/
+temp_flutter_repo/

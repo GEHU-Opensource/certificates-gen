@@ -1,0 +1,258 @@
+{
+	"info": {
+		"name": "Certificate Service API",
+		"description": "API collection for Certificate Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://localhost:8080",
+			"type": "string"
+		},
+		{
+			"key": "certificate_id",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "batch_id",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "template_id",
+			"value": "",
+			"type": "string"
+		}
+	],
+	"item": [
+		{
+			"name": "Health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/health",
+					"host": ["{{base_url}}"],
+					"path": ["health"]
+				}
+			}
+		},
+		{
+			"name": "Certificates",
+			"item": [
+				{
+					"name": "Generate Certificate",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"if (pm.response.code === 202) {",
+									"    const jsonData = pm.response.json();",
+									"    pm.collectionVariables.set('certificate_id', jsonData.id);",
+									"}"
+								]
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"template_id\": 1,\n  \"recipient\": {\n    \"name\": \"John Doe\",\n    \"email\": \"john@example.com\",\n    \"course\": \"Computer Science\",\n    \"event\": \"Hackathon 2024\",\n    \"club\": \"Tech Club\",\n    \"date\": \"2024-01-15\",\n    \"student_id\": \"CS001\",\n    \"metadata\": {\n      \"signer1_title\": \"Event Coordinator\",\n      \"signer2_title\": \"Head of Department\"\n    }\n  },\n  \"send_email\": false,\n  \"email_template_id\": null\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/certificates/generate",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "certificates", "generate"]
+						}
+					}
+				},
+				{
+					"name": "Bulk Generate",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"if (pm.response.code === 202) {",
+									"    const jsonData = pm.response.json();",
+									"    pm.collectionVariables.set('batch_id', jsonData.id);",
+									"}"
+								]
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"template_id\": 1,\n  \"recipients\": [\n    {\n      \"name\": \"John Doe\",\n      \"email\": \"john@example.com\",\n      \"course\": \"Computer Science\",\n      \"event\": \"Hackathon 2024\",\n      \"club\": \"Tech Club\",\n      \"date\": \"2024-01-15\",\n      \"student_id\": \"CS001\"\n    },\n    {\n      \"name\": \"Jane Smith\",\n      \"email\": \"jane@example.com\",\n      \"course\": \"Data Science\",\n      \"event\": \"Hackathon 2024\",\n      \"club\": \"Tech Club\",\n      \"date\": \"2024-01-15\",\n      \"student_id\": \"DS002\"\n    }\n  ],\n  \"send_email\": false,\n  \"email_template_id\": null\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/certificates/bulk",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "certificates", "bulk"]
+						}
+					}
+				},
+				{
+					"name": "Get Certificate",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/v1/certificates/{{certificate_id}}",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "certificates", "{{certificate_id}}"]
+						}
+					}
+				},
+				{
+					"name": "Download Certificate",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/v1/certificates/{{certificate_id}}/download",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "certificates", "{{certificate_id}}", "download"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "Batches",
+			"item": [
+				{
+					"name": "Get Batch Status",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/v1/batches/{{batch_id}}",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "batches", "{{batch_id}}"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "Templates",
+			"item": [
+				{
+					"name": "Create Template",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"if (pm.response.code === 201) {",
+									"    const jsonData = pm.response.json();",
+									"    pm.collectionVariables.set('template_id', jsonData.id);",
+									"}"
+								]
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"name\": \"Custom Certificate\",\n  \"description\": \"Custom certificate template\",\n  \"config\": {\n    \"template_name\": \"certificate.html\",\n    \"side_design\": \"side.svg\",\n    \"org_logo\": \"gehu-haldwani-logo.svg\",\n    \"club_logo\": \"club.svg\",\n    \"signature1\": \"cc.png\",\n    \"signature2\": \"hod_cse.png\",\n    \"signature3\": \"hod_soc.png\",\n    \"signature4\": \"hld_dir.png\"\n  }\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/templates",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "templates"]
+						}
+					}
+				},
+				{
+					"name": "List Templates",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/v1/templates",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "templates"]
+						}
+					}
+				},
+				{
+					"name": "Get Template",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/v1/templates/{{template_id}}",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "templates", "{{template_id}}"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "Email Templates",
+			"item": [
+				{
+					"name": "Create Email Template",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"name\": \"default\",\n  \"subject\": \"Your Certificate is Ready\",\n  \"body_html\": \"<h1>Congratulations {{.name}}!</h1><p>Your certificate for {{.course}} is ready.</p><a href=\\\"{{.download_url}}\\\">Download Certificate</a>\",\n  \"body_text\": \"Congratulations {{.name}}! Your certificate for {{.course}} is ready. Download: {{.download_url}}\"\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/email-templates",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "email-templates"]
+						}
+					}
+				},
+				{
+					"name": "List Email Templates",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/v1/email-templates",
+							"host": ["{{base_url}}"],
+							"path": ["api", "v1", "email-templates"]
+						}
+					}
+				}
+			]
+		}
+	]
+}

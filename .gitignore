@@ -1,0 +1,26 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+certificate-service
+
+# Dependencies
+vendor/
+go.work
+
+# Storage and logs
+storage/
+*.log
+.env
+
+# Test outputs
+test_output/
+sample_output/
+
+# OS files
+.DS_Store

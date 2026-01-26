@@ -1,0 +1,39 @@
+server:
+  port: "8080"
+  host: "0.0.0.0"
+  read_timeout: 30
+  write_timeout: 30
+
+database:
+  host: "localhost"
+  port: 5432
+  user: "postgres"
+  password: "postgres"
+  dbname: "certificates"
+  sslmode: "disable"
+
+redis:
+  host: "localhost"
+  port: 6379
+  password: ""
+  db: 0
+
+email:
+  provider: "sendgrid"
+  sendgrid_key: ""
+  smtp_host: ""
+  smtp_port: 587
+  smtp_user: ""
+  smtp_password: ""
+  from_email: "noreply@example.com"
+  from_name: "Certificate Service"
+
+storage:
+  type: "local"
+  local_path: "./storage/certificates"
+  s3_bucket: ""
+  s3_region: "us-east-1"
+
+queue:
+  worker_count: 10
+  batch_size: 50
