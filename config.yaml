@@ -23,10 +23,10 @@ email:
   sendgrid_key: ""
   smtp_host: "smtp.gmail.com"
   smtp_port: 587
-  smtp_user: ""
-  smtp_password: ""
-  from_email: ""
-  from_name: "Certificate Service"
+  smtp_user: "ayushkapri.richard@gmail.com"
+  smtp_password: "phcn gdjw cyrv xnkt"
+  from_email: "ayushkapri.richard@gmail.com"
+  from_name: "WeCode Certificate Service"
 
 storage:
   type: "local"

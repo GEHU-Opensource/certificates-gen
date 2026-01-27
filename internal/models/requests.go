@@ -1,10 +1,10 @@
 package models
 
 type GenerateCertificateRequest struct {
-	TemplateID uint                   `json:"template_id" binding:"required"`
-	Recipient  RecipientData          `json:"recipient" binding:"required"`
-	SendEmail  bool                   `json:"send_email"`
-	EmailTemplateID *uint             `json:"email_template_id"`
+	TemplateID      uint          `json:"template_id" binding:"required"`
+	Recipient       RecipientData `json:"recipient" binding:"required"`
+	SendEmail       bool          `json:"send_email"`
+	EmailTemplateID *uint         `json:"email_template_id"`
 }
 
 type RecipientData struct {
@@ -19,10 +19,10 @@ type RecipientData struct {
 }
 
 type BulkGenerateRequest struct {
-	TemplateID     uint                   `json:"template_id" binding:"required"`
-	Recipients     []RecipientData        `json:"recipients" binding:"required,min=1"`
-	SendEmail      bool                   `json:"send_email"`
-	EmailTemplateID *uint                 `json:"email_template_id"`
+	TemplateID      uint            `json:"template_id" binding:"required"`
+	Recipients      []RecipientData `json:"recipients" binding:"required,min=1"`
+	SendEmail       bool            `json:"send_email"`
+	EmailTemplateID *uint           `json:"email_template_id"`
 }
 
 type CreateTemplateRequest struct {
@@ -47,10 +47,10 @@ type CertificateResponse struct {
 }
 
 type BatchStatusResponse struct {
-	ID          uint   `json:"id"`
-	TotalCount  int    `json:"total_count"`
-	Processed   int    `json:"processed"`
-	Failed      int    `json:"failed"`
-	Status      string `json:"status"`
-	Progress    float64 `json:"progress"`
+	ID         uint    `json:"id"`
+	TotalCount int     `json:"total_count"`
+	Processed  int     `json:"processed"`
+	Failed     int     `json:"failed"`
+	Status     string  `json:"status"`
+	Progress   float64 `json:"progress"`
 }

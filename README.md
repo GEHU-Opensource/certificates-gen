@@ -22,7 +22,9 @@ Production-ready certificate generation service built with Go. Generates PDF cer
 ### Start Services
 
 ```bash
-make podman-up
+podman-compose down 
+podman-compose build app
+podman-compose up -d
 ```
 
 Services:

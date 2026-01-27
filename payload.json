@@ -1,0 +1,6626 @@
+[
+  {
+    "name": "Candidate's Name",
+    "email": "Candidate's Email",
+    "course": "Candidate's Organisation",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Name"
+  },
+  {
+    "name": "Vinayak Chandrashekhar Yadav",
+    "email": "vinayak.yadav23@spit.ac.in",
+    "course": "Sardar Patel Institute of Technology (SPIT), Mumbai",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "42"
+  },
+  {
+    "name": "Sahil Gupta",
+    "email": "sahilpisal0407@gmail.com",
+    "course": "Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "42"
+  },
+  {
+    "name": "Vishwajit Sarnobat",
+    "email": "vishwajit.sarnobat23@spit.ac.in",
+    "course": "Sardar Patel Institute of Technology (SPIT), Mumbai",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "42"
+  },
+  {
+    "name": "Yateen Laxman Vaviya",
+    "email": "yateen.vaviya23@spit.ac.in",
+    "course": "Sardar Patel Institute of Technology (SPIT), Mumbai",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "42"
+  },
+  {
+    "name": "Yogendra Kashyap",
+    "email": "yogiji0101@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "4-Sphere Squad"
+  },
+  {
+    "name": "Priyanshu Chhimwal",
+    "email": "priyanshuchhimwal22@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "4-Sphere Squad"
+  },
+  {
+    "name": "Paras Bisht",
+    "email": "bishtparas995@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "4-Sphere Squad"
+  },
+  {
+    "name": "Bhavya Harshit",
+    "email": "opharshit19@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "4-Sphere Squad"
+  },
+  {
+    "name": "Samarth Pagaria",
+    "email": "pagariasamarth@gmail.com",
+    "course": "Vidyalankar Institute of Technology (VIT), Mumbai",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "403 Forbidden Devs"
+  },
+  {
+    "name": "Meet Jain",
+    "email": "meetjain6091@gmail.com",
+    "course": "Vidyalankar Institute of Technology (VIT), Mumbai",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "403 Forbidden Devs"
+  },
+  {
+    "name": "Punit Dethe",
+    "email": "punitdethe2006@gmail.com",
+    "course": "Vidyalankar Institute of Technology (VIT), Mumbai",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "403 Forbidden Devs"
+  },
+  {
+    "name": "Sahil Vernekar",
+    "email": "vernekar337@gmail.com",
+    "course": "Don Bosco Institute of Technology (DBIT), Mumbai",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "403 Forbidden Devs"
+  },
+  {
+    "name": "Mohan Yadav",
+    "email": "yadavmohanhere@gmail.com",
+    "course": "Delhi Technological University (DTU), New Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404 Builders"
+  },
+  {
+    "name": "Shashank Singh",
+    "email": "shashanksinghas06@gmail.com",
+    "course": "Bhagwan Parshuram Institute of Technology (BPIT), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404 Builders"
+  },
+  {
+    "name": "Kuldeep Bhatt",
+    "email": "bhattkuldeep957@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404 Builders"
+  },
+  {
+    "name": "Kartik Singh",
+    "email": "kartiksingh6202@gmail.com",
+    "course": "University School of Information, Communication and Technology (USICT), GGS Indraprastha University (GGSIPU), New Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404 Builders"
+  },
+  {
+    "name": "Adityakeerti",
+    "email": "adityacodes404@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404 FOUNDERS"
+  },
+  {
+    "name": "Aditya Kumar Bhardwaj",
+    "email": "adityabhardwaj20584@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404 FOUNDERS"
+  },
+  {
+    "name": "Megha Singh",
+    "email": "meghajarodiya@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404 FOUNDERS"
+  },
+  {
+    "name": "Arpan Singh",
+    "email": "arpan001az@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404 FOUNDERS"
+  },
+  {
+    "name": "Pulkit Giddu",
+    "email": "pulkitgiddu09@gmail.com",
+    "course": "Vishwakarma Institute of Technology, Pune, Maharashtra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404_NOT_FOUND"
+  },
+  {
+    "name": "Amanpreet Singh",
+    "email": "amanpreetaps325@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404_NOT_FOUND"
+  },
+  {
+    "name": "Rishita Naniwal",
+    "email": "krishnasudan910@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404_NOT_FOUND"
+  },
+  {
+    "name": "Ankit Bhandari",
+    "email": "asirrajput09@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "404_NOT_FOUND"
+  },
+  {
+    "name": "Drishti Bansal",
+    "email": "drishti3275.beai24@chitkara.edu.in",
+    "course": "Chitkara University Institute of Engineering and Technology, Rajpura, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "7 Mod 3"
+  },
+  {
+    "name": "Piyush",
+    "email": "piyush2835.beai24@chitkara.edu.in",
+    "course": "Chitkara University Institute of Engineering and Technology, Rajpura, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "7 Mod 3"
+  },
+  {
+    "name": "Shivam Thakur",
+    "email": "shivam2884.beai24@chitkara.edu.in",
+    "course": "Chitkara University Institute of Engineering and Technology, Rajpura, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "7 Mod 3"
+  },
+  {
+    "name": "Divyanjali Tiwari",
+    "email": "divyanjali3272.beai24@chitkara.edu.in",
+    "course": "Chitkara University Institute of Engineering and Technology, Rajpura, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "7 Mod 3"
+  },
+  {
+    "name": "Bhavya Agarwal",
+    "email": "bhavyaagarwal947@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ABS"
+  },
+  {
+    "name": "Saurabh Singh",
+    "email": "saurabhtechai@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ABS"
+  },
+  {
+    "name": "Anushka Negi",
+    "email": "anushka27.negi@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ABS"
+  },
+  {
+    "name": "Ayushman Chauhan",
+    "email": "chauhanayushman505@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ABS"
+  },
+  {
+    "name": "Pintu Kumar",
+    "email": "Uuday2639@gmail.com",
+    "course": "CGC UNIVERSITY MOHALI",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Aero spark"
+  },
+  {
+    "name": "Divesh",
+    "email": "Divesh1402@gmail.com",
+    "course": "CGC UNIVERSITY MOHALI",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Aero spark"
+  },
+  {
+    "name": "Akshita Pathania",
+    "email": "akshupathania09@gmail.com",
+    "course": "CGC UNIVERSITY MOHALI",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Aero spark"
+  },
+  {
+    "name": "Om Andri ",
+    "email": "omrheworrior@gmail.com",
+    "course": "CGC UNIVERSITY MOHALI",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Aero spark"
+  },
+  {
+    "name": "Aman Rawat",
+    "email": "iam.the.amanrawat@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Agents"
+  },
+  {
+    "name": "Aman Kukreti",
+    "email": "kukretiaman635@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Agents"
+  },
+  {
+    "name": "Aditya Thapliyal",
+    "email": "athapliyaal1234@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Agents"
+  },
+  {
+    "name": "Ayush Negi",
+    "email": "negi09659@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Agents"
+  },
+  {
+    "name": "Harsh Sikarwar",
+    "email": "luckysikarwar90627@gmail.com",
+    "course": "Sharda University Agra, Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Agri-Farm"
+  },
+  {
+    "name": "Alisha Khan",
+    "email": "alisha.khan02112004@gmail.com",
+    "course": "Sharda University Agra, Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Agri-Farm"
+  },
+  {
+    "name": "Anshuman Rajawat",
+    "email": "anshumanrajawat53@gmail.com",
+    "course": "Sharda University Agra, Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Agri-Farm"
+  },
+  {
+    "name": "Shivi Singh",
+    "email": "sshivisingh30@gmail.com",
+    "course": "Sharda University Agra, Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Agri-Farm"
+  },
+  {
+    "name": "Manavata Joshi",
+    "email": "joshimanavata@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AGROCODE-\u00e2\u008d\u00ba"
+  },
+  {
+    "name": "Vidish Bijalwan",
+    "email": "vidishofficial@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AGROCODE-\u00e2\u008d\u00ba"
+  },
+  {
+    "name": "Vivek Bartwal",
+    "email": "vivekbartwal158@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AGROCODE-\u00e2\u008d\u00ba"
+  },
+  {
+    "name": "Akshay Rana",
+    "email": "ranaakshay1986@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AGROCODE-\u00e2\u008d\u00ba"
+  },
+  {
+    "name": "Gaurav Joshi",
+    "email": "gauravj121232@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ahankari"
+  },
+  {
+    "name": "Parth Joshi",
+    "email": "joshiparth936@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ahankari"
+  },
+  {
+    "name": "Raj Pratap",
+    "email": "rajthakur09628@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ahankari"
+  },
+  {
+    "name": "Prateek Banoula",
+    "email": "prateekbanoula65@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ahankari"
+  },
+  {
+    "name": "Nitish Sheoran",
+    "email": "nitish27sheoran@gmail.com",
+    "course": "Gautam Buddha University (GBU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AI (Aloo Intelligence)"
+  },
+  {
+    "name": "Sonal Tyagi",
+    "email": "sonaltyagi.biz@gmail.com",
+    "course": "Dr. A.P.J. abdul kalam technical university",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AI (Aloo Intelligence)"
+  },
+  {
+    "name": "Narayan Prasad",
+    "email": "narayanprasad032@gmail.com",
+    "course": "Gautam Buddha University (GBU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AI (Aloo Intelligence)"
+  },
+  {
+    "name": "Shyla Sharma",
+    "email": "shylasharma23@gmail.com",
+    "course": "Gautam Buddha University (GBU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AI (Aloo Intelligence)"
+  },
+  {
+    "name": "Kshitiz Gupta",
+    "email": "kshitizgupta600@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AI Assistant"
+  },
+  {
+    "name": "Dj Suryansh",
+    "email": "itssimplydjsuryansh@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AI Assistant"
+  },
+  {
+    "name": "Devansh Sharma",
+    "email": "devanshsharma.26106@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AI Assistant"
+  },
+  {
+    "name": "Karan Upraity",
+    "email": "upraitykaran@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "AI Assistant"
+  },
+  {
+    "name": "Nishant Yadav",
+    "email": "nishantyaduvanshi056@gmail.com",
+    "course": "Galgotias University (GU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ALPHA CODERS"
+  },
+  {
+    "name": "Kirti Sinha",
+    "email": "kirtijumbo2408@gmail.com",
+    "course": "Galgotias University (GU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ALPHA CODERS"
+  },
+  {
+    "name": "Varun Kumar",
+    "email": "varunkvdmv12@gmail.com",
+    "course": "Galgotias University (GU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ALPHA CODERS"
+  },
+  {
+    "name": "Priyanshu Namdev",
+    "email": "namdevpriyanshu844@gmail.com",
+    "course": "Galgotias University (GU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ALPHA CODERS"
+  },
+  {
+    "name": "Sparsh Singh",
+    "email": "sparshsingh7586@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Angry Coders"
+  },
+  {
+    "name": "Harsh Nivedan",
+    "email": "harshnivedan@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Angry Coders"
+  },
+  {
+    "name": "Ayush Ramola",
+    "email": "ramolaayush832@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Angry Coders"
+  },
+  {
+    "name": "Rohan Gupta",
+    "email": "kishanguptazxc@gmail.com",
+    "course": "Amrapali University, Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Angry Coders"
+  },
+  {
+    "name": "Kashif Ali Khan",
+    "email": "kashifalikhan093@gmail.com",
+    "course": "Dr. A.P.J. abdul kalam technical university",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ArcticX"
+  },
+  {
+    "name": "Jagdish Bhatt",
+    "email": "jagdishbhatt584@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ArcticX"
+  },
+  {
+    "name": "Sameer",
+    "email": "md2004sameer01@gmail.com",
+    "course": "Dr. A.P.J. Abdul Kalam Technical University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ArcticX"
+  },
+  {
+    "name": "Yash Dubey",
+    "email": "dubeyy426@gmail.com",
+    "course": "Dr. A.P.J. Abdul Kalam Technical University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ArcticX"
+  },
+  {
+    "name": "Mridul Bhardwaj",
+    "email": "cu23220170@coeruniversity.ac.in",
+    "course": "COER University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ArrIgOTech"
+  },
+  {
+    "name": "Priyank Tyagi",
+    "email": "priyanktyagi404@gmail.com",
+    "course": "COER University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ArrIgOTech"
+  },
+  {
+    "name": "Suchir Kaushik",
+    "email": "manworun1@gmail.com",
+    "course": "COER University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ArrIgOTech"
+  },
+  {
+    "name": "Suyash Pathak",
+    "email": "cu23250184@coeruniversity.ac.in",
+    "course": "COER University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ArrIgOTech"
+  },
+  {
+    "name": "Kushagra Saxena",
+    "email": "luwucifwer@proton.me",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Aventurine"
+  },
+  {
+    "name": "Daksh Yadav",
+    "email": "yadav.6.daksh@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Aventurine"
+  },
+  {
+    "name": "Shreyansh Kumar",
+    "email": "shreyansh3787@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Aventurine"
+  },
+  {
+    "name": "Aryan Boro",
+    "email": "aryanboro345@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Aventurine"
+  },
+  {
+    "name": "Tavish Gupta",
+    "email": "tavishgupta9@gmail.com",
+    "course": "School of Technology, PDEU, Gujarat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Batting"
+  },
+  {
+    "name": "Raghav Saxena",
+    "email": "reddybalavignesh9979@gmail.com",
+    "course": "School of Technology, PDEU, Gujarat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Batting"
+  },
+  {
+    "name": "Nemil Kirankumar Shah",
+    "email": "nemilshah212005@gmail.com",
+    "course": "School of Technology, PDEU, Gujarat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Batting"
+  },
+  {
+    "name": "Shah Hritik",
+    "email": "hritikshah02@gmail.com",
+    "course": "School of Technology, PDEU, Gujarat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Batting"
+  },
+  {
+    "name": "Mayank Gangwar",
+    "email": "mayank.gangwar2004@gmail.com",
+    "course": "Sharda University Agra (SU)",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BECON"
+  },
+  {
+    "name": "Manthan Makhija",
+    "email": "makhijamanthan33@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BECON"
+  },
+  {
+    "name": "Shubhendra Pratap",
+    "email": "shubhendrapratapsingh.ksj@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BECON"
+  },
+  {
+    "name": "Sachin",
+    "email": "sachinshakya.mpi09@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BECON"
+  },
+  {
+    "name": "Upendra Kumar",
+    "email": "upendrakumar00576@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BillionDevs"
+  },
+  {
+    "name": "Daksh Longwal",
+    "email": "dakshlongwal13@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BillionDevs"
+  },
+  {
+    "name": "Yash Mittal",
+    "email": "yashmittal30062007@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BillionDevs"
+  },
+  {
+    "name": "Abhijeet Kumar",
+    "email": "kumar.abhijeetgr0ww@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BillionDevs"
+  },
+  {
+    "name": "Ankita Gupta",
+    "email": "ankitagupta.cs24@bmsce.ac.in",
+    "course": "BMS College of Engineering (BMSCE), Bangalore",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Binary Bandits"
+  },
+  {
+    "name": "Yashdeep",
+    "email": "makrayash@gmail.com",
+    "course": "Dayananda Sagar College of Engineering (DSCE), Bengaluru",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Binary Bandits"
+  },
+  {
+    "name": "Manaswi Arvind Asutkar",
+    "email": "manaswiarvind.cs24@bmsce.ac.in",
+    "course": "BMS College of Engineering (BMSCE), Bangalore",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Binary Bandits"
+  },
+  {
+    "name": "Arushi Dhar",
+    "email": "arushidhar.cs24@bmsce.ac.in",
+    "course": "BMS College of Engineering (BMSCE), Bangalore",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Binary Bandits"
+  },
+  {
+    "name": "Kirti Bisht",
+    "email": "kirtibisht2908@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "birdwatch"
+  },
+  {
+    "name": "Simran Negi",
+    "email": "negisimran407@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "birdwatch"
+  },
+  {
+    "name": "Lavika Panwar",
+    "email": "panwarlavika9@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "birdwatch"
+  },
+  {
+    "name": "Disha Negi",
+    "email": "77negidisha@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "birdwatch"
+  },
+  {
+    "name": "Kartik Shirale",
+    "email": "kartikshirale1230@gmail.com",
+    "course": "Rajeshri shahu collage of engineering buldhana",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Bit Rebels"
+  },
+  {
+    "name": "Ajay Patil",
+    "email": "ajaypatil0921@gmail.com",
+    "course": "Mj college jalgoan",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Bit Rebels"
+  },
+  {
+    "name": "Pragati Patil",
+    "email": "pragatipatil46p@gmail.com",
+    "course": "Mj college jalgoan",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Bit Rebels"
+  },
+  {
+    "name": "Priyanka Bari",
+    "email": "priyankabari109@gmail.com",
+    "course": "Mj college jalgoan",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Bit Rebels"
+  },
+  {
+    "name": "Bhanu Pratap",
+    "email": "bhanupratap8989116974@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BTL"
+  },
+  {
+    "name": "Harsh Lama",
+    "email": "lamaharsh2022@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BTL"
+  },
+  {
+    "name": "Pranav Gupta",
+    "email": "pranavgupta368@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BTL"
+  },
+  {
+    "name": "Ayush Pokhariya",
+    "email": "ayushpokhariya7@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "BTL"
+  },
+  {
+    "name": "Mansi Shrivastav ",
+    "email": "mansishrivastav421@gmail.com",
+    "course": "Guru gobind singh indraprastha university ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ByteForce 2.0"
+  },
+  {
+    "name": "Pankaj Singh",
+    "email": "pankajsingh98066@gmail.com",
+    "course": "Guru gobind singh indraprastha university ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ByteForce 2.0"
+  },
+  {
+    "name": "Priyanka Sharma ",
+    "email": "priyanka3327sharma@gmail.com",
+    "course": "Guru gobind singh indraprastha university ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ByteForce 2.0"
+  },
+  {
+    "name": "Md Arif",
+    "email": "inshuking123@gmail.com",
+    "course": "Guru gobind singh indraprastha university ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ByteForce 2.0"
+  },
+  {
+    "name": "Mayank Bisht",
+    "email": "ibishtmayank@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "C L A S S E"
+  },
+  {
+    "name": "Kapil Koranga",
+    "email": "kapilkoranga012@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "C L A S S E"
+  },
+  {
+    "name": "Sanjana Sharma",
+    "email": "sanasharma2567@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "C L A S S E"
+  },
+  {
+    "name": "Anshika Mehta",
+    "email": "mehtaanshika3333@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "C L A S S E"
+  },
+  {
+    "name": "Satyam Naithani",
+    "email": "satyamnaithani14@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Chill Coders"
+  },
+  {
+    "name": "Naina Joshi",
+    "email": "nainajoshi477@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Chill Coders"
+  },
+  {
+    "name": "Mohit Kaintura",
+    "email": "kaintura293@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Chill Coders"
+  },
+  {
+    "name": "Saksham Aggarwal",
+    "email": "sakshamaggarwal1253@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Chill Coders"
+  },
+  {
+    "name": "Rohit Kumar",
+    "email": "iafrohit135@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Clashingcoders"
+  },
+  {
+    "name": "Rahul Dhami",
+    "email": "rahuldhami1703@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Clashingcoders"
+  },
+  {
+    "name": "Krishna Sharma",
+    "email": "29sharmakrishna@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Clashingcoders"
+  },
+  {
+    "name": "Harsh Maurya",
+    "email": "harshmaurya297@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Clashingcoders"
+  },
+  {
+    "name": "Sumit Singh Bagdwal",
+    "email": "sumitsbagdwal@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cloud-X"
+  },
+  {
+    "name": "Neha Mehta",
+    "email": "nm3999057@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cloud-X"
+  },
+  {
+    "name": "Himang Bora",
+    "email": "jsbora1234@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cloud-X"
+  },
+  {
+    "name": "Tapas Mishra",
+    "email": "shinzoou69@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cloud-X"
+  },
+  {
+    "name": "Diya Pundir",
+    "email": "pundirdiya0807@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code alchemist"
+  },
+  {
+    "name": "Akshit Pant",
+    "email": "akshitpant22@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code alchemist"
+  },
+  {
+    "name": "Ananya Dobhal",
+    "email": "ananyadobhal2006@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code alchemist"
+  },
+  {
+    "name": "Ahmed Nizam",
+    "email": "ahmednizam0024@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code alchemist"
+  },
+  {
+    "name": "Tripti Taneja",
+    "email": "tanejat234@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Breakers"
+  },
+  {
+    "name": "Sakshi Kala",
+    "email": "sunilduttkala28@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Breakers"
+  },
+  {
+    "name": "V Priya",
+    "email": "priyavenkateshbabu07@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Breakers"
+  },
+  {
+    "name": "Priyanshu Gariya",
+    "email": "priyanshugariya9999@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Breakers"
+  },
+  {
+    "name": "Dilbahar Nawab",
+    "email": "dilbaharnawab@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code bunnies"
+  },
+  {
+    "name": "Shreya",
+    "email": "gagnejashreya76@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code bunnies"
+  },
+  {
+    "name": "Pawani Sharma",
+    "email": "pawanisharma1905@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code bunnies"
+  },
+  {
+    "name": "Aditya Karnatak",
+    "email": "manaskarnatak@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code bunnies"
+  },
+  {
+    "name": "Karan Tiwari",
+    "email": "prathmeshmehra401@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Busters"
+  },
+  {
+    "name": "Kriti Malkani",
+    "email": "kritimalkani0609@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Busters"
+  },
+  {
+    "name": "Prathmesh Mehra",
+    "email": "tiwarikaran83997@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Busters"
+  },
+  {
+    "name": "Aditya Farswan",
+    "email": "adityafarswan30@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Busters"
+  },
+  {
+    "name": "Abhishek Giri",
+    "email": "abhishekgiri1978@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Catalyst"
+  },
+  {
+    "name": "Atharv Gangwar",
+    "email": "atharvgangwar8@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Catalyst"
+  },
+  {
+    "name": "Kashish Sharma",
+    "email": "kashishsharmamd@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Catalyst"
+  },
+  {
+    "name": "Muskan Sharma",
+    "email": "muskansharmadm@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Catalyst"
+  },
+  {
+    "name": "Sanket Kamboj",
+    "email": "sanketkamboj2006@gmail.com",
+    "course": "Thapar University (TU), Patiala, Punjab, India",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "code crafters"
+  },
+  {
+    "name": "Vaidik Bhardwaj",
+    "email": "vaidikbhardwaj00@gmail.com",
+    "course": "Thapar institute of engineering technology",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "code crafters"
+  },
+  {
+    "name": "Navya Arora",
+    "email": "narora3_be24@thapar.edu",
+    "course": "Thapar University (TU), Patiala, Punjab, India",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "code crafters"
+  },
+  {
+    "name": "Harkirat Singh",
+    "email": "singharkirath1511@gmail.com",
+    "course": "Thapar University (TU), Patiala, Punjab, India",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "code crafters"
+  },
+  {
+    "name": "Shreeyash Raajendran Kurupath",
+    "email": "skurupath7@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Crusaders"
+  },
+  {
+    "name": "Mohd Uvais Ahmed",
+    "email": "mohduvaisahmad08@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Crusaders"
+  },
+  {
+    "name": "Mujtaba Hasan",
+    "email": "mujtabahasan192042@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Crusaders"
+  },
+  {
+    "name": "Mohammad Rayyan Farooqui",
+    "email": "rayyanfarooqui463@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code Crusaders"
+  },
+  {
+    "name": "Raj Prajapati",
+    "email": "rajprajapati9625081@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code flow"
+  },
+  {
+    "name": "Saurav Bhatt",
+    "email": "sauravbhatt579@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code flow"
+  },
+  {
+    "name": "Gayatri Padalia",
+    "email": "gayatripadalia@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code flow"
+  },
+  {
+    "name": "Mahesh Bhatt",
+    "email": "maheshbhatt07dev@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Code flow"
+  },
+  {
+    "name": "Swastika Mukherjee",
+    "email": "swastikamukherjee456@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CODE FUSION"
+  },
+  {
+    "name": "Vanshika Maheshwari",
+    "email": "mshika1107@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CODE FUSION"
+  },
+  {
+    "name": "Priyanshi Tamta",
+    "email": "priyanshitamta9@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CODE FUSION"
+  },
+  {
+    "name": "Anshika Gaur",
+    "email": "webwork677@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CODE FUSION"
+  },
+  {
+    "name": "Apurva Sharma",
+    "email": "apurvasharma.hk@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeCops"
+  },
+  {
+    "name": "Priya Kholiya",
+    "email": "priyakholiya88@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeCops"
+  },
+  {
+    "name": "Anshika Singh",
+    "email": "anshikasingh230605@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeCops"
+  },
+  {
+    "name": "Anant Kumar",
+    "email": "antansh42@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeCops"
+  },
+  {
+    "name": "Priyanshu",
+    "email": "priyanshukumar01658@gmail.com",
+    "course": "Sharda University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeMinds"
+  },
+  {
+    "name": "Suhani Bamania",
+    "email": "suhani.bamania@gmail.com",
+    "course": "IGDTUW",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeMinds"
+  },
+  {
+    "name": "Lavanya Arora",
+    "email": "lavanyaarora75@gmail.com",
+    "course": "IGDTUW ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeMinds"
+  },
+  {
+    "name": "Om Pal",
+    "email": "ompal989546@gmail.com",
+    "course": "IEC",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeMinds"
+  },
+  {
+    "name": "Aniket Jain",
+    "email": "jainaniket884@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "coderewinders"
+  },
+  {
+    "name": "Sarwan Upadhyay",
+    "email": "sarwanupadhyay19@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "coderewinders"
+  },
+  {
+    "name": "Amit Pandey",
+    "email": "ap0137894@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "coderewinders"
+  },
+  {
+    "name": "Sarthak Bora",
+    "email": "borasarthak275@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "coderewinders"
+  },
+  {
+    "name": "Shahzada Kohinoor",
+    "email": "shahzadakohinoor@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeXcel \u00e2\u0161\u00a1"
+  },
+  {
+    "name": "Vishesh Kumar Singh",
+    "email": "tigerreturns6@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeXcel \u00e2\u0161\u00a1"
+  },
+  {
+    "name": "Hardik Pandey",
+    "email": "hardikpandey11hp@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeXcel \u00e2\u0161\u00a1"
+  },
+  {
+    "name": "Aman Singh Bisht",
+    "email": "amansinghbisht77@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeXcel \u00e2\u0161\u00a1"
+  },
+  {
+    "name": "Siddharth Agarwal",
+    "email": "agarwalsiddharth010@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeXploration"
+  },
+  {
+    "name": "Divyansh Rautela",
+    "email": "rdivyansh1104@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeXploration"
+  },
+  {
+    "name": "Mujahid Ansari",
+    "email": "mojahidansari62030@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeXploration"
+  },
+  {
+    "name": "Rehan Ahmed",
+    "email": "ra2471293@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodeXploration"
+  },
+  {
+    "name": "Vidushi Mohan",
+    "email": "vidsmo1506@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodHers"
+  },
+  {
+    "name": "Ambika Bisht",
+    "email": "ambikabisht605@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodHers"
+  },
+  {
+    "name": "Aayushi Goyal",
+    "email": "aayushi1754@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodHers"
+  },
+  {
+    "name": "Toshani Suntha",
+    "email": "toshanisuntha@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodHers"
+  },
+  {
+    "name": "Anirudh Panwar",
+    "email": "anirudhpanwar1604@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodingWithBiriyani"
+  },
+  {
+    "name": "Rohan Bhutani",
+    "email": "bhutanirohan13@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodingWithBiriyani"
+  },
+  {
+    "name": "Ananya Sharma",
+    "email": "ananyasharma1953@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodingWithBiriyani"
+  },
+  {
+    "name": "Shruti Sharma",
+    "email": "shruti0701shar@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "CodingWithBiriyani"
+  },
+  {
+    "name": "Hardik Pundir",
+    "email": "hardikpundir88@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Coffee Overflow"
+  },
+  {
+    "name": "Sarthak Chaudhary",
+    "email": "chaudharysarthak65@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Coffee Overflow"
+  },
+  {
+    "name": "Puneet Kumar Garg",
+    "email": "puneetgarg551@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Coffee Overflow"
+  },
+  {
+    "name": "Manthan Sharma",
+    "email": "manthan10041004@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Coffee Overflow"
+  },
+  {
+    "name": "Manish Raj",
+    "email": "rajusaith98764@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cold as Code"
+  },
+  {
+    "name": "Ashvin Gautam",
+    "email": "ashvinphotoshop1030@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cold as Code"
+  },
+  {
+    "name": "Manishka Shrivastava",
+    "email": "manishkashrivastava9999@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cold as Code"
+  },
+  {
+    "name": "Anjali Agrawal",
+    "email": "123654anjalo@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cold as Code"
+  },
+  {
+    "name": "Abishek Prasad Lekhak",
+    "email": "abisheklekhak07@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cold Code"
+  },
+  {
+    "name": "Aaditya Uniyal",
+    "email": "aaditya.uniyal22@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cold Code"
+  },
+  {
+    "name": "Aryan Arora",
+    "email": "aryanaroraa272006@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cold Code"
+  },
+  {
+    "name": "Sital",
+    "email": "sitalbansal1212@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cold Code"
+  },
+  {
+    "name": "Siddarth Danu",
+    "email": "siddarthdanu12@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cosmic Byte"
+  },
+  {
+    "name": "Harshita Padaliya",
+    "email": "harshitapadaliya2@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cosmic Byte"
+  },
+  {
+    "name": "Anshuman Bora",
+    "email": "boraanshuman962@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cosmic Byte"
+  },
+  {
+    "name": "Vishakha Pandey",
+    "email": "pandeyvish1.11@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Cosmic Byte"
+  },
+  {
+    "name": "Shivang Saxena",
+    "email": "shivangsaxena524@gmail.com",
+    "course": "Shri Ram Murti Smarak College of Engineering and Technology (SRMSCET), Bareilly",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Crypto Pirates"
+  },
+  {
+    "name": "Suhani Saxena",
+    "email": "suhanisaxena1704@gmail.com",
+    "course": "Shri Ram Murti Smarak College Of Engineering And Technology",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Crypto Pirates"
+  },
+  {
+    "name": "Kanishk Gulati",
+    "email": "kanishkgulati2004@gmail.com",
+    "course": "Shri Ram Murti Smarak College of Engineering and Technology (SRMSCET), Bareilly",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Crypto Pirates"
+  },
+  {
+    "name": "Maanya Saxena",
+    "email": "maanyasaxena143@gmail.com",
+    "course": "Shri Ram Murti Smarak College Of Engineering And Technology",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Crypto Pirates"
+  },
+  {
+    "name": "Sukhmani Kaur Ahluwalia",
+    "email": "sukhmaniahluwalia665@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ctrl+Alt+Code"
+  },
+  {
+    "name": "Sonmathi Lakshya R J",
+    "email": "sonmathi0212@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ctrl+Alt+Code"
+  },
+  {
+    "name": "Aditi Tandon",
+    "email": "adititandon2006@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ctrl+Alt+Code"
+  },
+  {
+    "name": "Drashya Raghav",
+    "email": "drashyaraghav@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ctrl+Alt+Code"
+  },
+  {
+    "name": "Siddharth Dangi",
+    "email": "dangisiddharth482@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Debugging Divas"
+  },
+  {
+    "name": "Sunidhi Bhandari",
+    "email": "sunidhi5486@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Debugging Divas"
+  },
+  {
+    "name": "Saksham Chhetri",
+    "email": "chhetrisaksham2@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Debugging Divas"
+  },
+  {
+    "name": "Anshika Rana",
+    "email": "ranaanshika1525@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Debugging Divas"
+  },
+  {
+    "name": "Kartikey Nautiyal",
+    "email": "kartikeynautiyal3@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "DEV X"
+  },
+  {
+    "name": "Arpit",
+    "email": "arpitrohila527@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "DEV X"
+  },
+  {
+    "name": "Divyanshu",
+    "email": "divyanshupanwar32@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "DEV X"
+  },
+  {
+    "name": "Ayush Sariyal",
+    "email": "ayushsariyal23@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "DEV X"
+  },
+  {
+    "name": "Md Asif",
+    "email": "amd90982@gmail.com",
+    "course": "University of engineering and management, kolkata",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "dotenv"
+  },
+  {
+    "name": "Pratyay Chatterjee",
+    "email": "pratyaydip123@gmail.com",
+    "course": "University of engineering and management, kolkata",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "dotenv"
+  },
+  {
+    "name": "Prakash Metla",
+    "email": "iamavikagarwala@gmail.com",
+    "course": "University of engineering and management, kolkata",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "dotenv"
+  },
+  {
+    "name": "Ananta Pathak",
+    "email": "anantapathak701@gmail.com",
+    "course": "University of engineering and management, kolkata",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "dotenv"
+  },
+  {
+    "name": "Jatin Rajvani",
+    "email": "jatinrajwani19@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "DreamBuilders"
+  },
+  {
+    "name": "Dhruv Sonagra",
+    "email": "dhruv.sonagra.cg@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "DreamBuilders"
+  },
+  {
+    "name": "Sujal Vasara",
+    "email": "vasarasujal.cg@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "DreamBuilders"
+  },
+  {
+    "name": "Prem Kambaliya",
+    "email": "premkambaliya1@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "DreamBuilders"
+  },
+  {
+    "name": "Gaurav Pant",
+    "email": "gauravpant033@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "EliteHack Squad"
+  },
+  {
+    "name": "Dinesh Chandra Pandey",
+    "email": "dchandrap973@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "EliteHack Squad"
+  },
+  {
+    "name": "Mukul Mehta",
+    "email": "mehtamukul689@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "EliteHack Squad"
+  },
+  {
+    "name": "Neeraj Singh",
+    "email": "shwetakhati.30@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "EliteHack Squad"
+  },
+  {
+    "name": "Rahul Gautam",
+    "email": "techrahul.gautam@gmail.com",
+    "course": "ITM University, Gwalior ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Elites"
+  },
+  {
+    "name": "Anmol Dixit",
+    "email": "bholudixitanmoldixit@gmail.com",
+    "course": "ITM University, Gwalior ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Elites"
+  },
+  {
+    "name": "Ashish Sharma",
+    "email": "ashish781890@gmail.com",
+    "course": "ITM University, Gwalior ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Elites"
+  },
+  {
+    "name": "Amit Singh Rajawat",
+    "email": "asthakur98k@gmail.com",
+    "course": "ITM University, Gwalior ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Elites"
+  },
+  {
+    "name": "Kanchan Bhatt",
+    "email": "kanchanbhatt1606@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Explorers"
+  },
+  {
+    "name": "Sakshi Bisht",
+    "email": "sakshiibishhtt@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Explorers"
+  },
+  {
+    "name": "Nikhil Joshi",
+    "email": "nikhiljoshi705514@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Explorers"
+  },
+  {
+    "name": "Rohit Singh Rawat",
+    "email": "rawatrohit5647@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Explorers"
+  },
+  {
+    "name": "Nitin Vishwkarma",
+    "email": "nitinvishwkarma12312@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Falcon"
+  },
+  {
+    "name": "Shubham Loshali",
+    "email": "shubham.loshali18@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Falcon"
+  },
+  {
+    "name": "Pawan Bisht",
+    "email": "bishtpawan63980@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Falcon"
+  },
+  {
+    "name": "Deepak Dumka",
+    "email": "deepakdumka7171@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Falcon"
+  },
+  {
+    "name": "Arpit Kandari",
+    "email": "kandariarpit096@gmail.com",
+    "course": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Frost"
+  },
+  {
+    "name": "Manu Pathak",
+    "email": "pathakmanu222@gmail.com",
+    "course": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Frost"
+  },
+  {
+    "name": "Lokesh Jaggi",
+    "email": "hackathonhackathon929@gmail.com",
+    "course": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Frost"
+  },
+  {
+    "name": "Anuj Bisht",
+    "email": "bishtanuj12345@gmail.com",
+    "course": "Swami Rama Himalayan University (SRHU), Baksar Wala, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Frost"
+  },
+  {
+    "name": "Suravi Reddy",
+    "email": "suravireddy.ai23@rvce.edu.in",
+    "course": "R.V. College of Engineering (RVCE), Bangalore",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "GammaGo"
+  },
+  {
+    "name": "Samarth Kothathi Narayan",
+    "email": "samarthkn.is23@rvce.edu.in",
+    "course": "R. V. College of Engineering, Bengaluru, Karnataka",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "GammaGo"
+  },
+  {
+    "name": "Aditi Shastri",
+    "email": "aditishastri.is23@rvce.edu.in",
+    "course": "R.V. College of Engineering (RVCE), Bangalore",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "GammaGo"
+  },
+  {
+    "name": "Aryan Srivastava",
+    "email": "aryan20sri@gmail.com",
+    "course": "Symbiosis Institute of Technology (SIT), Pune",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "GammaGo"
+  },
+  {
+    "name": "Kalpankumar Kaneriya",
+    "email": "kalpankaneriyax@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Garuda"
+  },
+  {
+    "name": "Mohil Mundke",
+    "email": "mundkemohil@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Garuda"
+  },
+  {
+    "name": "Dax Patel",
+    "email": "daxpatel.cg@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Garuda"
+  },
+  {
+    "name": "Kalp Patel",
+    "email": "kalppatel1209@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Garuda"
+  },
+  {
+    "name": "Priyanshu Rawat",
+    "email": "priyanshurawatd08@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Genesis"
+  },
+  {
+    "name": "Jatin Gupta",
+    "email": "jatingupta70089@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Genesis"
+  },
+  {
+    "name": "Devesh Tiwari",
+    "email": "tiwaridevesh444@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Genesis"
+  },
+  {
+    "name": "Shreyash Raj Bamrara",
+    "email": "shreyashbamrara@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Genesis"
+  },
+  {
+    "name": "Aryan Chaturvedi",
+    "email": "aryancodesdaily@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Gfd Coders"
+  },
+  {
+    "name": "Nishant Tiwari",
+    "email": "nishantiiwari@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Gfd Coders"
+  },
+  {
+    "name": "Akshat Jain",
+    "email": "akshatjain18107@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Gfd Coders"
+  },
+  {
+    "name": "Ankur",
+    "email": "ankurattri07@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Gfd Coders"
+  },
+  {
+    "name": "Aryan Tiwari",
+    "email": "aryantiwari0724@gmail.com",
+    "course": "Graphic era hill university (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Git It Done "
+  },
+  {
+    "name": "Tanuj Pargai",
+    "email": "tanujpargai00@gmail.com",
+    "course": "Graphic era hill university (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Git It Done "
+  },
+  {
+    "name": "Apoorv Mehra",
+    "email": "apoorvm33@gmail.com",
+    "course": "Graphic era hill university (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Git It Done "
+  },
+  {
+    "name": "Gaurav Pandey ",
+    "email": "kmgaurav84@gmail.com",
+    "course": "Graphic era hill university (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Git It Done "
+  },
+  {
+    "name": "Agrim Garg",
+    "email": "agrimgarg31@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Git it Done 2.0"
+  },
+  {
+    "name": "Anshika Goyal",
+    "email": "goyalanshika.2507@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Git it Done 2.0"
+  },
+  {
+    "name": "Kamal Kishore Kandpal",
+    "email": "kamalkandpal0101@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Git it Done 2.0"
+  },
+  {
+    "name": "Shruti Joshi",
+    "email": "2006joshi.shruti@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Git it Done 2.0"
+  },
+  {
+    "name": "Nischay Joshi",
+    "email": "nischayjoshi108@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Go-Gitters"
+  },
+  {
+    "name": "Arju Srivastava",
+    "email": "angermaster11@gmail.com",
+    "course": "GLA University (GLAU), Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Go-Gitters"
+  },
+  {
+    "name": "Sneha Verma",
+    "email": "sv728318@gmail.com",
+    "course": "GLA University (GLAU), Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Go-Gitters"
+  },
+  {
+    "name": "Khushi Gangwar",
+    "email": "khushigangwar344@gmail.com",
+    "course": "GLA University (GLAU), Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Go-Gitters"
+  },
+  {
+    "name": "Sutakshi",
+    "email": "sutakshijk@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hack Heaven"
+  },
+  {
+    "name": "Utkarsh Nautiyal",
+    "email": "utkarshnautiyal321@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hack Heaven"
+  },
+  {
+    "name": "Shubhanshi Bisht",
+    "email": "bishtshubhanshi75@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hack Heaven"
+  },
+  {
+    "name": "Ashish Bhatt",
+    "email": "ashish19bhatt2005@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hack Heaven"
+  },
+  {
+    "name": "Lokendra Pandey",
+    "email": "lokendrapandey914@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackademics"
+  },
+  {
+    "name": "Vibhi Rawat",
+    "email": "rawatvibhi2020@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackademics"
+  },
+  {
+    "name": "Vibhu Badoni",
+    "email": "vibhubadoni25@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackademics"
+  },
+  {
+    "name": "Jagmeet Singh",
+    "email": "harpreetsinghmudhal@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackademics"
+  },
+  {
+    "name": "Poshika Bhatnagar",
+    "email": "poshikabhatnagar777@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackaholics"
+  },
+  {
+    "name": "Swati",
+    "email": "swatipraj7087@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackaholics"
+  },
+  {
+    "name": "Nitish",
+    "email": "nitishchoubey1234@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackaholics"
+  },
+  {
+    "name": "Aniket Rajak",
+    "email": "akakakraj12345@gmail.com",
+    "course": "Indian Institute of Information Technology Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackaholics"
+  },
+  {
+    "name": "Himanshu Bora",
+    "email": "himanshubora478@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HackHawks"
+  },
+  {
+    "name": "Chaitanya Upreti",
+    "email": "chaitanyaupreti496@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HackHawks"
+  },
+  {
+    "name": "Saksham Pantola",
+    "email": "pantolasaksham200@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HackHawks"
+  },
+  {
+    "name": "Sarthak Bhatt",
+    "email": "bhattji529@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HackHawks"
+  },
+  {
+    "name": "Advika Singhal",
+    "email": "advika006bteceai23@igdtuw.ac.in",
+    "course": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HackHers"
+  },
+  {
+    "name": "Anshika Sharma",
+    "email": "anshika028btcse23@igdtuw.ac.in",
+    "course": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HackHers"
+  },
+  {
+    "name": "Vidhi Saxena",
+    "email": "vidhi094btmae23@igdtuw.ac.in",
+    "course": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HackHers"
+  },
+  {
+    "name": "Mishthi Sachdeva",
+    "email": "mishthi038btaiml23@igdtuw.ac.in",
+    "course": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HackHers"
+  },
+  {
+    "name": "Kali Gupta",
+    "email": "kaligupta0631@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackgoom"
+  },
+  {
+    "name": "Devansh Maheshwari",
+    "email": "devansh16jan@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackgoom"
+  },
+  {
+    "name": "Shivang Tyagi",
+    "email": "tyagishivang3@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackgoom"
+  },
+  {
+    "name": "Vansh Sharma ",
+    "email": "vanshshrma2910@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackgoom"
+  },
+  {
+    "name": "Gaurav Pathak",
+    "email": "gauraveducation0@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackronauts"
+  },
+  {
+    "name": "Saurav Singh Mehta",
+    "email": "sauravmehta631@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackronauts"
+  },
+  {
+    "name": "Kartik Kumar",
+    "email": "kumarkartik2146@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackronauts"
+  },
+  {
+    "name": "Priyanshu Bisht",
+    "email": "priyanshubisht.dev@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackronauts"
+  },
+  {
+    "name": "Yashfeen",
+    "email": "yashfeen6343@gmail.com",
+    "course": "Moradabad Institute of Technology (MIT), Moradabad",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackwing Squad"
+  },
+  {
+    "name": "Narendra Hindwar",
+    "email": "hindwarnarendra@gmail.com",
+    "course": "Moradabad Institute of Technology (MIT), Moradabad",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackwing Squad"
+  },
+  {
+    "name": "Premraj Singh",
+    "email": "prem.s244001@gmail.com",
+    "course": "Moradabad Institute of Technology (MIT), Moradabad",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackwing Squad"
+  },
+  {
+    "name": "Jaanvi Chauhan",
+    "email": "jaanvichauhan872005@gmail.com",
+    "course": "Moradabad Institute of Technology (MIT), Moradabad",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hackwing Squad"
+  },
+  {
+    "name": "Mayank Bhatt",
+    "email": "mayankbhattgehu13@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hawks"
+  },
+  {
+    "name": "Bhumika Bhatt",
+    "email": "bhattbhumika31@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hawks"
+  },
+  {
+    "name": "Parth Batham",
+    "email": "bathamparth1@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hawks"
+  },
+  {
+    "name": "Ansh Karki",
+    "email": "anshkarki751@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hawks"
+  },
+  {
+    "name": "Kuldeep Kohli",
+    "email": "kuldpkohli2003@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Herculean Bytes"
+  },
+  {
+    "name": "Vaibhav Sharma",
+    "email": "ts0410383@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Herculean Bytes"
+  },
+  {
+    "name": "Sarthak Singh Choudhary",
+    "email": "sarthaksingh2528@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Herculean Bytes"
+  },
+  {
+    "name": "Vijayvrat Singh",
+    "email": "svijayvrat@outlook.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Herculean Bytes"
+  },
+  {
+    "name": "Gaurav Singh",
+    "email": "officialgaurav0408@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Himalayan Hawks"
+  },
+  {
+    "name": "Priyanshu Pant",
+    "email": "pantpriyanshu707@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Himalayan Hawks"
+  },
+  {
+    "name": "Parth Verma",
+    "email": "pv830357@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Himalayan Hawks"
+  },
+  {
+    "name": "Ritik Bhandari",
+    "email": "bhandariritik825@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Himalayan Hawks"
+  },
+  {
+    "name": "Harshit Thakur",
+    "email": "thakurharshit2722@gmail.com",
+    "course": "GLA Uniersity",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Human Error 404"
+  },
+  {
+    "name": "Anvesha Sharma",
+    "email": "bhardwajanvesha312@gmail.com",
+    "course": "GLA Uniersity",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Human Error 404"
+  },
+  {
+    "name": "Priyanshu Singh",
+    "email": "rjptpriyanshusingh0007@gmail.com",
+    "course": "GLA Uniersity",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Human Error 404"
+  },
+  {
+    "name": "Yashashvi Jadoan",
+    "email": "yashashvijadoan@gmail.com",
+    "course": "GLA Uniersity",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Human Error 404"
+  },
+  {
+    "name": "Asmit Singh Bisht",
+    "email": "hackermail2077@gmail.com",
+    "course": "Bennett univeristy",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HungryTigers"
+  },
+  {
+    "name": "Aman Sarounia",
+    "email": "amansarounia12@gmail.com",
+    "course": "Bennett univeristy",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HungryTigers"
+  },
+  {
+    "name": "Harsh Verma",
+    "email": "harsh335187@gmail.com",
+    "course": "Bennett univeristy",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HungryTigers"
+  },
+  {
+    "name": "Ritik Kumar",
+    "email": "r31365103@gmail.com",
+    "course": "Bennett univeristy",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "HungryTigers"
+  },
+  {
+    "name": "Mohammad Sharik",
+    "email": "iamsharik7@gmail.com",
+    "course": "Chandigarh University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hunter"
+  },
+  {
+    "name": "Aariz Hashmi",
+    "email": "hashmiaariz508@gmail.com",
+    "course": "Chandigarh University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hunter"
+  },
+  {
+    "name": "Arvinder Singh",
+    "email": "Arvindsinghgulati@gmail.com",
+    "course": "Chandigarh University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hunter"
+  },
+  {
+    "name": "Nisthaa ",
+    "email": "raonisthaa@gmail.com",
+    "course": "Chandigarh University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Hunter"
+  },
+  {
+    "name": "Tarun Ruwali",
+    "email": "tarunruwali.240111572@gehu.ac.in",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "i PAD Chor"
+  },
+  {
+    "name": "Jay Negi",
+    "email": "jayn75009@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "i PAD Chor"
+  },
+  {
+    "name": "Ankush Rawat",
+    "email": "ankushsinghrawat154@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "i PAD Chor"
+  },
+  {
+    "name": "Ujjwal Bhatt",
+    "email": "ujjwalbhatt00259@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "i PAD Chor"
+  },
+  {
+    "name": "Sanjay T",
+    "email": "sanjayt23it@psnacet.edu.in",
+    "course": "PSNA College of Engineering and Technology (PSNACET), Dindigul",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "INVINCIBLE"
+  },
+  {
+    "name": "Roobak Vijai",
+    "email": "roobakvijainb23it@psnacet.edu.in",
+    "course": "PSNA College of Engineering and Technology (PSNACET), Dindigul",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "INVINCIBLE"
+  },
+  {
+    "name": "Tamilselvan M",
+    "email": "tamilselvanm23it@psnacet.edu.in",
+    "course": "PSNA College Of Engineering And Technology",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "INVINCIBLE"
+  },
+  {
+    "name": "Rupesh Kumar P M",
+    "email": "rupeshkumarpm23it@psnacet.edu.in",
+    "course": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY, DINDIGUL",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "INVINCIBLE"
+  },
+  {
+    "name": "Anamika Bisht",
+    "email": "bishtanamika01@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "jugaadu.exe"
+  },
+  {
+    "name": "Shyam Kumar",
+    "email": "shyamsharma1877@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "jugaadu.exe"
+  },
+  {
+    "name": "Akansha Rawat",
+    "email": "akansharaw0101@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "jugaadu.exe"
+  },
+  {
+    "name": "Vansh Singh Lalotra",
+    "email": "lalotravansh95@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "jugaadu.exe"
+  },
+  {
+    "name": "Muaaz Shaikh",
+    "email": "muaaz5731@gmail.com",
+    "course": "NMIMS MPSTME",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Jugaadus"
+  },
+  {
+    "name": "Kamakshi Bahuguna",
+    "email": "bahugunakamakshi05@gmail.com",
+    "course": "NMIMS MPSTME",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Jugaadus"
+  },
+  {
+    "name": "Devanshi Kambli",
+    "email": "devanshikambli2006@gmail.com",
+    "course": "NMIMS MPSTME",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Jugaadus"
+  },
+  {
+    "name": "Ishita Ranjan",
+    "email": "ranjanishita23@gmail.com",
+    "course": "NMIMS MPSTME",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Jugaadus"
+  },
+  {
+    "name": "Nitin Mor",
+    "email": "mornitin123@gmail.com",
+    "course": "Chandigarh university mohali",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kasukabe Group"
+  },
+  {
+    "name": "Chirag Singh",
+    "email": "singhchirag875@gmail.com",
+    "course": "University Institute of Engineering, Chandigarh university",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kasukabe Group"
+  },
+  {
+    "name": "Tanishka Chahal ",
+    "email": "tanishkachahal79@gmail.com",
+    "course": "University Institute of Engineering, Chandigarh university",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kasukabe Group"
+  },
+  {
+    "name": "Piyush Thakur ",
+    "email": "piyushthakur3217@gmail.com",
+    "course": "Chandigarh University ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kasukabe Group"
+  },
+  {
+    "name": "Devesh Singh Gouni",
+    "email": "deveshsg4@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kedari"
+  },
+  {
+    "name": "Saurav Beri",
+    "email": "sauravberi16@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kedari"
+  },
+  {
+    "name": "Ankit Negi",
+    "email": "an0852995@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kedari"
+  },
+  {
+    "name": "Rajat Pundir",
+    "email": "gdg.arcade.rajat.070906@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kedari"
+  },
+  {
+    "name": "Simar Singh Rayat",
+    "email": "rayatsimar@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "KILZCODE"
+  },
+  {
+    "name": "Prins Kanyal",
+    "email": "prinskanyal@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "KILZCODE"
+  },
+  {
+    "name": "Sujal Thapa",
+    "email": "thapasujal369@gmail.com",
+    "course": "Graphic era hill University dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "KILZCODE"
+  },
+  {
+    "name": "Shaurya Singh",
+    "email": "shauryasingh310@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Knoxious"
+  },
+  {
+    "name": "Khushbu Kanyal",
+    "email": "khushbuukanyal@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Knoxious"
+  },
+  {
+    "name": "Swayam Belwal",
+    "email": "swayambelwal120@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Knoxious"
+  },
+  {
+    "name": "Riya Bhatt",
+    "email": "riyasssspc@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Knoxious"
+  },
+  {
+    "name": "Gaurav Singh",
+    "email": "gavravzle@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kreodev"
+  },
+  {
+    "name": "Bhavesh Pandey",
+    "email": "workbhaveshpandey@gmail.com",
+    "course": "Amrapali University, Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kreodev"
+  },
+  {
+    "name": "Kalpana",
+    "email": "kalpanakarayat82@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kreodev"
+  },
+  {
+    "name": "Aastha Sharma",
+    "email": "gehuaastha2008@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Haldwani Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kreodev"
+  },
+  {
+    "name": "Param Joshi",
+    "email": "paramsai574@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kshitij"
+  },
+  {
+    "name": "Absar Alam",
+    "email": "absaralam12092006@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kshitij"
+  },
+  {
+    "name": "Gautam Bisht",
+    "email": "bishtgautam98@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kshitij"
+  },
+  {
+    "name": "Ridhima Budhlakoti",
+    "email": "ridimabudhlakoti488@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Kshitij"
+  },
+  {
+    "name": "Shagun Bajpai",
+    "email": "shagunbajpai2006@gmail.com",
+    "course": "Invertis University, Bareilly, Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Leet 1337"
+  },
+  {
+    "name": "Aryan Srivastava",
+    "email": "srivastavaaryan0143@gmail.com",
+    "course": "Invertis University, Bareilly, Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Leet 1337"
+  },
+  {
+    "name": "Vansh Saxena",
+    "email": "saxenavansh099@gmail.com",
+    "course": "Invertis University, Bareilly, Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Leet 1337"
+  },
+  {
+    "name": "Sarthak Gupta",
+    "email": "sarthakgupta3020@gmail.com",
+    "course": "Invertis University, Bareilly, Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Leet 1337"
+  },
+  {
+    "name": "Baibhab Gusain",
+    "email": "baibhabgusain830@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Logic Legion"
+  },
+  {
+    "name": "Aadi Joshi",
+    "email": "rj8578785@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Logic Legion"
+  },
+  {
+    "name": "Neer Joshi",
+    "email": "neer23102007@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Logic Legion"
+  },
+  {
+    "name": "Ansh Gupta",
+    "email": "py4nsh@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Logic Legion"
+  },
+  {
+    "name": "Gaurav Kandpal",
+    "email": "gauravkandpalapk1@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "MandelBrot"
+  },
+  {
+    "name": "Prajwal Surya",
+    "email": "suryaprajwal4@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "MandelBrot"
+  },
+  {
+    "name": "Lakshit Pandey",
+    "email": "pandeylakshit52@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "MandelBrot"
+  },
+  {
+    "name": "Shivani Rana",
+    "email": "shivanirana5111@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "MandelBrot"
+  },
+  {
+    "name": "Abhishek Negi",
+    "email": "abhisheknegi75054@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Mantissa"
+  },
+  {
+    "name": "Ankit Negi",
+    "email": "ankitnegi5420@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Mantissa"
+  },
+  {
+    "name": "Akbar Ansari",
+    "email": "ansariakbar56748@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Mantissa"
+  },
+  {
+    "name": "Himanshu Yadav",
+    "email": "hy976593@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Mantissa"
+  },
+  {
+    "name": "Utkarsh Rai",
+    "email": "utkarshrai.ukr123@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Mavericks"
+  },
+  {
+    "name": "Mohan Yadav",
+    "email": "kumarmohan15366@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Mavericks"
+  },
+  {
+    "name": "Saumya Pratap Singh",
+    "email": "saumya246761@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Mavericks"
+  },
+  {
+    "name": "Manas",
+    "email": "jmanas275@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Mavericks"
+  },
+  {
+    "name": "Rwitam Ray",
+    "email": "rwitam.ray003@gmail.com",
+    "course": "RCC Institute of Information Technology (RCCIIT), Kolkata",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Meta_Crypt"
+  },
+  {
+    "name": "Nilotpal Guha",
+    "email": "nilotpalguha04@gmail.com",
+    "course": "RCC Institute of Information Technology (RCCIIT), Kolkata",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Meta_Crypt"
+  },
+  {
+    "name": "Arijit Sarkar",
+    "email": "cypher12103@gmail.com",
+    "course": "RCC Institute of Information Technology (RCCIIT), Kolkata",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Meta_Crypt"
+  },
+  {
+    "name": "Arpan Aon",
+    "email": "aonarpan@gmail.com",
+    "course": "RCC Institute of Information Technology (RCCIIT), Kolkata",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Meta_Crypt"
+  },
+  {
+    "name": "Suryanshu Behera",
+    "email": "suryanshu.behera123@gmail.com",
+    "course": "National Institute of Technology (NIT), Rourkela",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Meta_Minds"
+  },
+  {
+    "name": "Parth Saxena",
+    "email": "parthsaxena2005@gmail.com",
+    "course": "National Institute of Technology (NIT), Rourkela",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Meta_Minds"
+  },
+  {
+    "name": "Raj Kumar Nath Sharma",
+    "email": "rajkumarnathsharma@gmail.com",
+    "course": "National Institute of Technology (NIT), Rourkela",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Meta_Minds"
+  },
+  {
+    "name": "Sidhartha Yerukula",
+    "email": "yerukulasiddharth@gmail.com",
+    "course": "National Institute of Technology (NIT), Rourkela",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Meta_Minds"
+  },
+  {
+    "name": "Yuvraj Singh Pundhir",
+    "email": "yuvrajpundhir9@gmail.com",
+    "course": "IIIT SONEPAT",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "MethCoders"
+  },
+  {
+    "name": "Akshat Bansal",
+    "email": "akshat29may@gmail.com",
+    "course": "IIIT SONEPAT",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "MethCoders"
+  },
+  {
+    "name": "Mohit Ranjan",
+    "email": "mohitranjan2111@gmail.com",
+    "course": "IIIT SONEPAT",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "MethCoders"
+  },
+  {
+    "name": "Nikhil Bansal",
+    "email": "nbansal7k@gmail.com",
+    "course": "IIIT SONEPAT",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "MethCoders"
+  },
+  {
+    "name": "Sparsh Narayan",
+    "email": "sparshn552@gmail.com",
+    "course": "Doon University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Naini Valley Coders"
+  },
+  {
+    "name": "Isha Negi",
+    "email": "itsishanegi@gmail.com",
+    "course": "Doon University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Naini Valley Coders"
+  },
+  {
+    "name": "Sumit Pokhriyal",
+    "email": "sumitpokhriyal82005@gmail.com",
+    "course": "Doon University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Naini Valley Coders"
+  },
+  {
+    "name": "Anchal Negi",
+    "email": "aanchalnegii20@gmail.com",
+    "course": "Uttaranchal College of Science and Technology, Dehradun, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Naini Valley Coders"
+  },
+  {
+    "name": "Sumaira",
+    "email": "sumairasumaira648@gmail.com",
+    "course": "Kurukshetra University (KU), Kurukshetra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Neo-Gen Innovators"
+  },
+  {
+    "name": "Nevid Alam",
+    "email": "mdnabid786@gmail.com",
+    "course": "Panipat institute of engineering and technology",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Neo-Gen Innovators"
+  },
+  {
+    "name": "Shiny Dhingra",
+    "email": "dhingrashiny01@gmail.com",
+    "course": "Panipat Institute of Engineering & Technology (PIET), Panipat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Neo-Gen Innovators"
+  },
+  {
+    "name": "Mohammad Zaid Ansari ",
+    "email": "zaidansariacces@gmail.com",
+    "course": "Panipat institute of engineering and technology ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Neo-Gen Innovators"
+  },
+  {
+    "name": "Subodh Khanduri",
+    "email": "subodhk1700.24@kgpian.iitkgp.ac.in",
+    "course": "Indian Institute of Technology (IIT), Kharagpur",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Neobots"
+  },
+  {
+    "name": "Kaushiki Singh",
+    "email": "kaushiki_24a12res310@iitp.ac.in",
+    "course": "Indian Institute of Technology (IIT), Patna",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Neobots"
+  },
+  {
+    "name": "Kaukab Erum",
+    "email": "kaukab_24a12res307@iitp.ac.in",
+    "course": "Indian Institute of Technology (IIT), Patna",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Neobots"
+  },
+  {
+    "name": "Sanket Falodia",
+    "email": "sanket1300.becse24@chitkara.edu.in",
+    "course": "Indian Institute of Technology (IIT), Patna",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Neobots"
+  },
+  {
+    "name": "Pushpesh Pant",
+    "email": "pushpeshpant023@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nexora"
+  },
+  {
+    "name": "Manas Dobal",
+    "email": "manasdobal82@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nexora"
+  },
+  {
+    "name": "Rohit Kumar Rathour",
+    "email": "rohitrathour56781234@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nexora"
+  },
+  {
+    "name": "Palak Pandey",
+    "email": "palakpandey1913@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nexora"
+  },
+  {
+    "name": "Rajat Singhal",
+    "email": "singhalrajat354@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nishchay"
+  },
+  {
+    "name": "Sameer Singh",
+    "email": "sameer02102004@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nishchay"
+  },
+  {
+    "name": "Utsav Tiwari",
+    "email": "onlyutsav05@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nishchay"
+  },
+  {
+    "name": "Vatsal Rai",
+    "email": "raivatsal2@gmail.com",
+    "course": "Sharda University (SU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nishchay"
+  },
+  {
+    "name": "Harshit Bisht",
+    "email": "harshvardhanbisht90@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "No Signal.exe"
+  },
+  {
+    "name": "Gaurav Mer",
+    "email": "mergaurav4@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "No Signal.exe"
+  },
+  {
+    "name": "Bhawesh Pant",
+    "email": "bhaweshpant2005@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "No Signal.exe"
+  },
+  {
+    "name": "Harshit Jantwal",
+    "email": "harshitjantwal1804@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "No Signal.exe"
+  },
+  {
+    "name": "Ajay Chauhan",
+    "email": "23bcs13759@cuchd.in",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Northbound"
+  },
+  {
+    "name": "Gautam Kumar",
+    "email": "23bcs13028@cuchd.in",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Northbound"
+  },
+  {
+    "name": "Kanishk Bhandari",
+    "email": "23bcs11100@cuchd.in",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Northbound"
+  },
+  {
+    "name": "Prem Rawat",
+    "email": "23bcs10659@cuchd.in",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Northbound"
+  },
+  {
+    "name": "Shivam Kumar",
+    "email": "shivam829241@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Not_RooKies"
+  },
+  {
+    "name": "Aarjav Shukla",
+    "email": "aarjavshukla38@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Not_RooKies"
+  },
+  {
+    "name": "Manish Dalal",
+    "email": "manishdalal329@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Not_RooKies"
+  },
+  {
+    "name": "Aditya Kumar",
+    "email": "adityakumar26102006@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Not_RooKies"
+  },
+  {
+    "name": "Pratyush Bameta ",
+    "email": "pratyushbameta@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nova Legends "
+  },
+  {
+    "name": "Harshit Pant",
+    "email": "pant35561@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nova Legends "
+  },
+  {
+    "name": "Khushi Pant",
+    "email": "khushipant48@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nova Legends "
+  },
+  {
+    "name": "Chhavi Gupta",
+    "email": "gbhawna716@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Nova Legends "
+  },
+  {
+    "name": "Yusuf Nadeem Kondkari",
+    "email": "yusufkondkari07@gmail.com",
+    "course": "MH Saboo Siddik College",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "NpmInit"
+  },
+  {
+    "name": "Khan Mohd Jarir",
+    "email": "kjarir23@gmail.com",
+    "course": "MH Saboo Siddik College",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "NpmInit"
+  },
+  {
+    "name": "Tauheed Khan",
+    "email": "tauheedxd90@gmail.com",
+    "course": "MH Saboo Siddik College",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "NpmInit"
+  },
+  {
+    "name": "Sahil Gawade",
+    "email": "sahilgawade4321@gmail.com",
+    "course": "Vidyalankar Institute of Technology",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "NpmInit"
+  },
+  {
+    "name": "Sourabh Singh",
+    "email": "specious0027@proton.me",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Skull"
+  },
+  {
+    "name": "Aditya Pandey",
+    "email": "penflair725@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Skull"
+  },
+  {
+    "name": "Suraj Sharma",
+    "email": "surajsharma60923@outlook.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Skull"
+  },
+  {
+    "name": "Naman Joshi",
+    "email": "namanjoshi357@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Skull"
+  },
+  {
+    "name": "Shubham Singh",
+    "email": "shubhsoch@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Sphere"
+  },
+  {
+    "name": "Abdullah Jami",
+    "email": "abdullahit12412030@iiitsonepat.ac.in",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Sphere"
+  },
+  {
+    "name": "Aditya Indora",
+    "email": "a25781623@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Sphere"
+  },
+  {
+    "name": "Utkarsh Tyagi",
+    "email": "utkarshesh123@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Sphere"
+  },
+  {
+    "name": "Shashank Tiwari",
+    "email": "shashanktiwari028@gmail.com",
+    "course": "GRAPHIC ERA HILL UNIVERSITY DEHRADUN",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Syndicate"
+  },
+  {
+    "name": "Priyanshu Negi",
+    "email": "prriiyansunegi@gmail.com",
+    "course": "GRAPHIC ERA HILL UNIVERSITY DEHRADUN",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Syndicate"
+  },
+  {
+    "name": "Harshit Nautiyal",
+    "email": "harshitnautiyal7@gmail.com",
+    "course": "Dev Bhoomi Uttarakhand University, Naugaon, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Syndicate"
+  },
+  {
+    "name": "Anmol Bahuguna",
+    "email": "campuspixels@gmail.com",
+    "course": "GRAPHIC ERA HILL UNIVERSITY DEHRADUN",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Null Syndicate"
+  },
+  {
+    "name": "Gaurav Mahaur",
+    "email": "pawankumarpk570441@gmail.com",
+    "course": "Eshan Group Of Institutions, Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Omnity"
+  },
+  {
+    "name": "Sagar Baghel",
+    "email": "sagarbaghel0703@gmail.com",
+    "course": "Uttam Institute of Technology and Management (UITM), Agra, Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Omnity"
+  },
+  {
+    "name": "Yogesh",
+    "email": "yogesh144711@gmail.com",
+    "course": "Uttam Institute of Technology and Management (UITM), Agra, Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Omnity"
+  },
+  {
+    "name": "Sunil Kumar",
+    "email": "sunilkr1482@gmail.com",
+    "course": "Uttam Institute of Technology and Management (UITM), Agra, Uttar Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Omnity"
+  },
+  {
+    "name": "Manglam Dandeva",
+    "email": "manglam.dandeva@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "One four all"
+  },
+  {
+    "name": "Raghav Satija",
+    "email": "raghavsatija7@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "One four all"
+  },
+  {
+    "name": "Aditya",
+    "email": "adityachitoria2@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "One four all"
+  },
+  {
+    "name": "Ishant",
+    "email": "ishantreenasuresh@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "One four all"
+  },
+  {
+    "name": "Karan Badhani",
+    "email": "karanbadhani9770@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "OneByte"
+  },
+  {
+    "name": "Dharambeer Singh Sajwan",
+    "email": "dharambeersajwan2006@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "OneByte"
+  },
+  {
+    "name": "Shubh Pandey",
+    "email": "shubhpandey2985@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "OneByte"
+  },
+  {
+    "name": "Suraj Giri Goswami",
+    "email": "surajgoswami684@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "OneByte"
+  },
+  {
+    "name": "Anuj Pateria",
+    "email": "anujpateriya526@gmail.com",
+    "course": "Galgotias University (GU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ourobonics"
+  },
+  {
+    "name": "Shams Parvez",
+    "email": "shamsparvez368@gmail.com",
+    "course": "Galgotias University (GU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ourobonics"
+  },
+  {
+    "name": "Shubham",
+    "email": "officialsg120043@gmail.com",
+    "course": "Galgotias University (GU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ourobonics"
+  },
+  {
+    "name": "Baksheesh Singh",
+    "email": "singhbaksheesh7@gmail.com",
+    "course": "Galgotias University (GU), Greater Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Ourobonics"
+  },
+  {
+    "name": "Umang Pokhriyal",
+    "email": "umangpokhriyall@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Outlaws"
+  },
+  {
+    "name": "Rahul Rawat",
+    "email": "rawatrahul96274@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Outlaws"
+  },
+  {
+    "name": "Vashu Chauhan",
+    "email": "vashuchauhan0004@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Outlaws"
+  },
+  {
+    "name": "Aryan Gairola",
+    "email": "aryangairola3@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Outlaws"
+  },
+  {
+    "name": "Aditya Raj Keshri",
+    "email": "keshrirajaditya1@gmail.com",
+    "course": "College of Engineering Roorkee (COER), Roorkee",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "PEGASUS"
+  },
+  {
+    "name": "Dev Bhatt",
+    "email": "devbhatt1512@gmail.com",
+    "course": "College of Engineering Roorkee (COER), Roorkee",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "PEGASUS"
+  },
+  {
+    "name": "Anant Roy",
+    "email": "anantroy85@gmail.com",
+    "course": "COER UNIVERSITY",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "PEGASUS"
+  },
+  {
+    "name": "Aryan Kumar",
+    "email": "aryanchaudhary09871@gmail.com",
+    "course": "College of Engineering Roorkee (COER), Roorkee",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "PEGASUS"
+  },
+  {
+    "name": "Tanish Aggarwal",
+    "email": "tanishaggarwal.in@gmail.com",
+    "course": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Percevia"
+  },
+  {
+    "name": "Anshuman Dutta",
+    "email": "anshuman.123dutta@gmail.com",
+    "course": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Percevia"
+  },
+  {
+    "name": "Chakshu Arora",
+    "email": "chakshuarora098@gmail.com",
+    "course": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Percevia"
+  },
+  {
+    "name": "Yash Goel",
+    "email": "yashgoel15119@gmail.com",
+    "course": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Percevia"
+  },
+  {
+    "name": "Santosh Kumar Verma",
+    "email": "santoshskv2005@gmail.com",
+    "course": "Indian Institute of Technology (IIT), Madras",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Power Nexus"
+  },
+  {
+    "name": "Prashant Kumar",
+    "email": "prashant2422005@gmail.com",
+    "course": "Sushant University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Power Nexus"
+  },
+  {
+    "name": "Prithvi Raj",
+    "email": "prithvirajsharma1243@gmail.com",
+    "course": "Sushant University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Power Nexus"
+  },
+  {
+    "name": "Ayush Kumar",
+    "email": "kumarayush23658@gmail.com",
+    "course": "Sushant University (SU), Gurgaon",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Power Nexus"
+  },
+  {
+    "name": "Manish Bisht",
+    "email": "bishtmanish2210@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Prime inovators"
+  },
+  {
+    "name": "Pawan Gariya",
+    "email": "pawangariya517@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Prime inovators"
+  },
+  {
+    "name": "Yuvraj Singh Rautela",
+    "email": "yuvrajrautela0018@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Prime inovators"
+  },
+  {
+    "name": "Tanuja Chandola",
+    "email": "harshitchandola43@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Prime inovators"
+  },
+  {
+    "name": "Gaurav Bora",
+    "email": "gauravbora642@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "PrimeWave Coder"
+  },
+  {
+    "name": "Rakshit Bora",
+    "email": "rakshitbora41@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "PrimeWave Coder"
+  },
+  {
+    "name": "Diya Joshi",
+    "email": "diya000.d@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "PrimeWave Coder"
+  },
+  {
+    "name": "Lavanya Joshi",
+    "email": "pramodjoshiji1@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "PrimeWave Coder"
+  },
+  {
+    "name": "Ditipriya Laha",
+    "email": "lahaditipriya@gmail.com",
+    "course": "UEM KOLKATA",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "printf(\"winners\");"
+  },
+  {
+    "name": "Snigdha Singha",
+    "email": "myselfsnigdha2023@gmail.com",
+    "course": "UEM KOLKATA",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "printf(\"winners\");"
+  },
+  {
+    "name": "Pritim Mondal",
+    "email": "pritimmondal045@gmail.com",
+    "course": "UEM KOLKATA",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "printf(\"winners\");"
+  },
+  {
+    "name": "Priyanshu Chandra Sarker",
+    "email": "monkey.d.luffyxroronoa.zoro05@gmail.com",
+    "course": "UEM KOLKATA",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "printf(\"winners\");"
+  },
+  {
+    "name": "Aditya Singh Bisht",
+    "email": "adityabisht0000@gmail.com",
+    "course": "Delhi Technological University (DTU), New Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Prodigy"
+  },
+  {
+    "name": "Rishabh Kumar",
+    "email": "rishabh7466kumar@gmail.com",
+    "course": "Delhi Technological University (DTU), New Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Prodigy"
+  },
+  {
+    "name": "Madhav Gandhi",
+    "email": "madhavgandhi14@gmail.com",
+    "course": "Delhi Technological University (DTU), New Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Prodigy"
+  },
+  {
+    "name": "Raghav Aloria",
+    "email": "raghavaloria@gmail.com",
+    "course": "Delhi Technological University (DTU), New Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Prodigy"
+  },
+  {
+    "name": "Maheto Sagar Satendra",
+    "email": "glboysagar1@gmail.com",
+    "course": "Government Engineering College, Daman",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quad core"
+  },
+  {
+    "name": "Rohit Panda",
+    "email": "pandarohit123@gmail.com",
+    "course": "Government Engineering College, Daman",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quad core"
+  },
+  {
+    "name": "Jiya Durgapal",
+    "email": "jiyadurgapal@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quadcore"
+  },
+  {
+    "name": "Rachana Mehta",
+    "email": "rachanamehta09@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quadcore"
+  },
+  {
+    "name": "Swati Mehra",
+    "email": "swatim9706@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quadcore"
+  },
+  {
+    "name": "Bhawana Takuli",
+    "email": "bhawanatakuli09@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quadcore"
+  },
+  {
+    "name": "Komal Kumari",
+    "email": "komal_24a12res1190@iitp.ac.in",
+    "course": "Indian Institute of Technology (IIT), Patna",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quantum coders"
+  },
+  {
+    "name": "Simran Kumari",
+    "email": "simran_24a12res1112@iitp.ac.in",
+    "course": "Indian Institute of Technology (IIT), Patna",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quantum coders"
+  },
+  {
+    "name": "Rahul Kumar",
+    "email": "rahul.kumar51@s.amity.edu",
+    "course": "Amity University (AU), Patna, Bihar",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quantum coders"
+  },
+  {
+    "name": "Mahak Kumari",
+    "email": "mahak_24a12res970@iitp.ac.in",
+    "course": "Indian Institute of Technology (IIT), Patna",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quantum coders"
+  },
+  {
+    "name": "Bhavesh Verma",
+    "email": "bhaveshverma1595@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quantum Core"
+  },
+  {
+    "name": "Harshit Airi",
+    "email": "harshit12airi@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quantum Core"
+  },
+  {
+    "name": "Mragank Tiwari",
+    "email": "mraganktiwari2006@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Quantum Core"
+  },
+  {
+    "name": "Rahul Bisht",
+    "email": "bishtrahul183777@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Return 0"
+  },
+  {
+    "name": "Piyush Joshi",
+    "email": "piyushjoshi8477@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Return 0"
+  },
+  {
+    "name": "Yash Karki",
+    "email": "karkiyash88@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Return 0"
+  },
+  {
+    "name": "Piyush Naula",
+    "email": "naulapiyush001@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Return 0"
+  },
+  {
+    "name": "Ashutosh Rauthan",
+    "email": "rauthanashutosh2023@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Royal Hogs"
+  },
+  {
+    "name": "Aditya Pharswan",
+    "email": "adityapharswan30@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Royal Hogs"
+  },
+  {
+    "name": "Arpan Sharma",
+    "email": "arpanuk07@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Royal Hogs"
+  },
+  {
+    "name": "Amol Kainthola",
+    "email": "amolkainthola61@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Royal Hogs"
+  },
+  {
+    "name": "Harshad Mehta",
+    "email": "mehtaharshad7983@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Runtime Error"
+  },
+  {
+    "name": "Pragati Sanguri",
+    "email": "pragatiisanguri@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Runtime Error"
+  },
+  {
+    "name": "Nitesh Pandey",
+    "email": "niteshpandey1924@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Runtime Error"
+  },
+  {
+    "name": "Abhay Mehta",
+    "email": "abhaymehta88990@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Runtime Error"
+  },
+  {
+    "name": "Sarthak Badoni",
+    "email": "sarthakbadoni937@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Runtime Terror"
+  },
+  {
+    "name": "Kushagra Bhuwalka",
+    "email": "kushagrabhuwalka@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Runtime Terror"
+  },
+  {
+    "name": "Rudraksh Bhatt",
+    "email": "rudraaksh.bhatt@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Runtime Terror"
+  },
+  {
+    "name": "Aditya Jadli",
+    "email": "adityajadli06@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Runtime Terror"
+  },
+  {
+    "name": "Mohammad Aasim",
+    "email": "aasim@cse.iitb.ac.in",
+    "course": "Indian Institute of Technology (IIT), Bombay",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SAAK"
+  },
+  {
+    "name": "Aditya Upadhye",
+    "email": "24m0830@iitb.ac.in",
+    "course": "Indian Institute of Technology (IIT), Bombay",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SAAK"
+  },
+  {
+    "name": "Sanchit Kadwe",
+    "email": "24m0836@iitb.ac.in",
+    "course": "Indian Institute of Technology (IIT), Bombay",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SAAK"
+  },
+  {
+    "name": "Mohammad Kashif Khan",
+    "email": "24m0770@iitb.ac.in",
+    "course": "Indian Institute of Technology (IIT), Bombay",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SAAK"
+  },
+  {
+    "name": "Sharad Pandey",
+    "email": "62sharadpandey@gmail.com",
+    "course": "Chandigarh University Mohali Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SAB Squad"
+  },
+  {
+    "name": "Aniket Dwivedi",
+    "email": "aniketdwivedi683@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SAB Squad"
+  },
+  {
+    "name": "Ayush Kumar Singh",
+    "email": "singh117ayush@gmail.com",
+    "course": "SRM IST, Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SAB Squad"
+  },
+  {
+    "name": "Bhawika Bhandari",
+    "email": "bhawikabhandari5@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SAB Squad"
+  },
+  {
+    "name": "Satyam Sharma",
+    "email": "satyam1464.be23@chitkarauniversity.edu.in",
+    "course": "Chitkara University (CU), Himachal Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sankalp"
+  },
+  {
+    "name": "Anshul Kashyap",
+    "email": "anshul1095.be23@chitkarauniversity.edu.in",
+    "course": "Chitkara University (CU), Himachal Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sankalp"
+  },
+  {
+    "name": "Gagan Khurana",
+    "email": "gagankhurana2006@gmail.com",
+    "course": "Chitkara University (CU), Himachal Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sankalp"
+  },
+  {
+    "name": "Swasti Mohanty",
+    "email": "swasti1528.be23@chitkarauniversity.edu.in",
+    "course": "Chitkara University (CU), Himachal Pradesh",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sankalp"
+  },
+  {
+    "name": "Arpan Sau",
+    "email": "mclaren2492005@gmail.com",
+    "course": "National Institute of Technology (NIT), Durgapur",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sashwat"
+  },
+  {
+    "name": "Arup Dhara",
+    "email": "2019arupdhara@gmail.com",
+    "course": "National Institute of Technology (NIT), Durgapur",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sashwat"
+  },
+  {
+    "name": "Ankur Bharti",
+    "email": "ab7691782@gmail.com",
+    "course": "National Institute of Technology (NIT), Durgapur",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sashwat"
+  },
+  {
+    "name": "Vikas Kasaudhan",
+    "email": "vikaskasaudhan542@gmail.com",
+    "course": "National Institute of Technology (NIT), Durgapur",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sashwat"
+  },
+  {
+    "name": "Satyam Chaudhary",
+    "email": "satyamchaudhary236@gmail.com",
+    "course": "Graphic Era Hill University Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Satiyansh"
+  },
+  {
+    "name": "Sanskriti",
+    "email": "sanskritighanshala24@gmail.com",
+    "course": "Graphic Era Hill University Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Satiyansh"
+  },
+  {
+    "name": "Saniya Rawat",
+    "email": "sanirawat2003@gmail.com",
+    "course": "Graphic Era Hill University Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Satiyansh"
+  },
+  {
+    "name": "Vansh Sharma",
+    "email": "engagevansh@gmail.com",
+    "course": "Graphic Era Hill University Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Satiyansh"
+  },
+  {
+    "name": "Pardeep Singh",
+    "email": "sandhupardeep300@gmail.com",
+    "course": "Chandigarh University (CU),Mohali,Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Seb-Cheneb"
+  },
+  {
+    "name": "Karanvir Singh",
+    "email": "karan228ghotra@gmail.com",
+    "course": "Chandigarh University (CU),Mohali,Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Seb-Cheneb"
+  },
+  {
+    "name": "Arman Yadav",
+    "email": "yadavarman.88@gmail.com",
+    "course": "Maharaja Surajmal Institute of Technology (MSIT), New Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Seb-Cheneb"
+  },
+  {
+    "name": "Mudit Joshi",
+    "email": "joshimudit10455@gmail.com",
+    "course": "Maharaja Surajmal Institute of Technology (MSIT), New Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Seb-Cheneb"
+  },
+  {
+    "name": "Anshuman Joshi",
+    "email": "gehu.anshumanjoshi@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Secure wave"
+  },
+  {
+    "name": "Dipin Kharayat",
+    "email": "dipinkharayat@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Secure wave"
+  },
+  {
+    "name": "Chetan Pandey",
+    "email": "chetanpandey581@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Secure wave"
+  },
+  {
+    "name": "Saurabh Bhatt",
+    "email": "saurabhbhatt343@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Secure wave"
+  },
+  {
+    "name": "Manish Baghel",
+    "email": "baghelmanish4947@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Shield"
+  },
+  {
+    "name": "Kratagya Verma",
+    "email": "kratgya2006@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Shield"
+  },
+  {
+    "name": "Rishab Lodhi",
+    "email": "lodhirishabh20@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Shield"
+  },
+  {
+    "name": "Karan Singh",
+    "email": "karansinghvishwakarma2005@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Shield"
+  },
+  {
+    "name": "Manish Kumar Gupta",
+    "email": "gupta.manish2304@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SIC/XE"
+  },
+  {
+    "name": "Aditya Nandan",
+    "email": "nandanaditya985@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SIC/XE"
+  },
+  {
+    "name": "Anirudh Lakhanpal",
+    "email": "anirudhlakhanpal123@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SIC/XE"
+  },
+  {
+    "name": "Mohammad Shahnawaz Khan",
+    "email": "shahnawaz04khan@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SIC/XE"
+  },
+  {
+    "name": "Mayank Kumar",
+    "email": "mail.mayank001@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Silent Loop"
+  },
+  {
+    "name": "Harshit Tandon",
+    "email": "tandonharshit757@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Silent Loop"
+  },
+  {
+    "name": "Aleena Tr",
+    "email": "aleenatr77@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Silent Loop"
+  },
+  {
+    "name": "Geetika",
+    "email": "geetikasaini1390@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Silent Loop"
+  },
+  {
+    "name": "Dhruvi Grover",
+    "email": "grdhruvi10@gmail.com",
+    "course": "Chitkara University (CU), Rajpura, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Silver Toons"
+  },
+  {
+    "name": "Satyam Godara",
+    "email": "satyamgodara2005@gmail.com",
+    "course": "Chitkara University (CU), Rajpura, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Silver Toons"
+  },
+  {
+    "name": "Pulkit Sachdeva",
+    "email": "sachdevapulkit109@gmail.com",
+    "course": "Chitkara University (CU), Rajpura, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Silver Toons"
+  },
+  {
+    "name": "Ananya Malhotra",
+    "email": "social.ananyamalhotra@gmail.com",
+    "course": "Chitkara University (CU), Rajpura, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Silver Toons"
+  },
+  {
+    "name": "Mansi Pandey",
+    "email": "mansipandey7768@gmail.com",
+    "course": "Graphic era hill University bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Skynet"
+  },
+  {
+    "name": "Aman Chauhan",
+    "email": "amanchauh4n14@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Skynet"
+  },
+  {
+    "name": "Manas Singh Bisht",
+    "email": "pahadirevengers@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Skynet"
+  },
+  {
+    "name": "Amay Upreti",
+    "email": "amayupreti5@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Skynet"
+  },
+  {
+    "name": "Rajat Vishnoi",
+    "email": "rajatvishnoi32@gmail.com",
+    "course": "Teerthanker Mahaveer University,Moradabad (U.P.)",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SLAYERS"
+  },
+  {
+    "name": "Sadgi Kumari",
+    "email": "kumarisadgi1@gmail.com",
+    "course": "Teerthanker Mahaveer University,Moradabad (U.P.)",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SLAYERS"
+  },
+  {
+    "name": "Yuvraj Singh",
+    "email": "yuvrajsingh639623@gmail.com",
+    "course": "Teerthanker Mahaveer University,Moradabad (U.P.)",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SLAYERS"
+  },
+  {
+    "name": "Riya Jain",
+    "email": "riyajain10081@gmail.com",
+    "course": "Teerthanker Mahaveer University,Moradabad (U.P.)",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SLAYERS"
+  },
+  {
+    "name": "Yash Pathak",
+    "email": "yashpathak221103@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Slingshot syntax"
+  },
+  {
+    "name": "Yash Rawat",
+    "email": "yashrawwt@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Slingshot syntax"
+  },
+  {
+    "name": "Lalit Kandpal",
+    "email": "lalitmohankandpal0100@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Slingshot syntax"
+  },
+  {
+    "name": "Harshita Dobal",
+    "email": " harshitadobal7@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Slingshot syntax"
+  },
+  {
+    "name": "Anshul Kumar",
+    "email": "anshulkumarx264@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Soul Scripts"
+  },
+  {
+    "name": "Rishabh Thapliyal",
+    "email": "rishabhthapliyal003@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Soul Scripts"
+  },
+  {
+    "name": "Aman Rawat",
+    "email": "amanrwt2016@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Soul Scripts"
+  },
+  {
+    "name": "Arun Kumar",
+    "email": "arunkumar695149@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Soul Scripts"
+  },
+  {
+    "name": "Upadhyay Dhrumin Tusharkumar",
+    "email": "dhruminupadhyay100@gmail.com",
+    "course": "Parul university",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "stalwart"
+  },
+  {
+    "name": "Bhavya Dipakkumar Kela",
+    "email": "bhavyakela@gmail.com",
+    "course": "Parul university",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "stalwart"
+  },
+  {
+    "name": "Krishna Chaurasiya",
+    "email": "krishnachaurasiya2907@gmail.com",
+    "course": "Parul university",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "stalwart"
+  },
+  {
+    "name": "Meet Vasani",
+    "email": "meetvasani458@gmail.com",
+    "course": "Parul university",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "stalwart"
+  },
+  {
+    "name": "Shaik Hasnain",
+    "email": "shaikhasnain2007@gmail.com",
+    "course": "SRM University, Amaravati",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Stark Industries"
+  },
+  {
+    "name": "Shaik Ghouse Mohiidin Shah",
+    "email": "mohiddinshah_shaik@srmap.edu.in",
+    "course": "SRM University, Amaravati",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Stark Industries"
+  },
+  {
+    "name": "Naga Ajitesh M",
+    "email": "mnagaajitesh27@gmail.com",
+    "course": "SRM University, Amaravati",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Stark Industries"
+  },
+  {
+    "name": "Nuthalapati Rohit Subrahmanyam",
+    "email": "rohith729h@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Stark Industries"
+  },
+  {
+    "name": "Sudhanshu Pratap",
+    "email": "sudhanshu21105@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Straw Hats"
+  },
+  {
+    "name": "Priyanshu Bafila",
+    "email": "bafilashankar000@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Straw Hats"
+  },
+  {
+    "name": "Vansh Jaiswal",
+    "email": "vanshjaiswal116@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Straw Hats"
+  },
+  {
+    "name": "Sanya Sharrma",
+    "email": "sanyasharrma.51@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Straw Hats"
+  },
+  {
+    "name": "Mohit Upraity",
+    "email": "mohitupraity123@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Strawhats"
+  },
+  {
+    "name": "Krati",
+    "email": "krati2510@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Strawhats"
+  },
+  {
+    "name": "Krishna Kumar",
+    "email": "darkshadowking2007@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Strawhats"
+  },
+  {
+    "name": "Kumari Rani",
+    "email": "sameerk10361@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Strawhats"
+  },
+  {
+    "name": "Vansh Pandey",
+    "email": "vanshpandey928@gmail.com",
+    "course": "Sharda University (SU), AGRA",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SunGod"
+  },
+  {
+    "name": "Yash Agarwal",
+    "email": "yashagarwalcse.aiml2024@agra.sharda.ac.in",
+    "course": "Sharda University (SU), AGRA",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SunGod"
+  },
+  {
+    "name": "Vishal Hotwani",
+    "email": "vishalhotwani2005@gmail.com",
+    "course": "Sharda University (SU), AGRA",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SunGod"
+  },
+  {
+    "name": "Kartik Upadhayay",
+    "email": "ghostgaming.962005@gmail.com",
+    "course": "Anand Engineering College (AEC), Agra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SunGod"
+  },
+  {
+    "name": "Rohan Tewari",
+    "email": "rohantewari2023@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Swastik"
+  },
+  {
+    "name": "Siddharth Sahai",
+    "email": "shattering10@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Swastik"
+  },
+  {
+    "name": "Ravi Yadav",
+    "email": "raviyadav161515@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Swastik"
+  },
+  {
+    "name": "Nayan Prakash",
+    "email": "nayanpr620@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Swastik"
+  },
+  {
+    "name": "Vanshika Chauhan",
+    "email": "chauhanvanshika913@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sync squad"
+  },
+  {
+    "name": "Bhawini Kaushik",
+    "email": "bhawinikaushik418@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sync squad"
+  },
+  {
+    "name": "Roshni Joshi",
+    "email": "roshnijoshi652@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sync squad"
+  },
+  {
+    "name": "Nikita Budhlakoti",
+    "email": "nbudhlakoti031@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Sync squad"
+  },
+  {
+    "name": "Gaurav Saini",
+    "email": "gs014758@gmail.com",
+    "course": "College of Engineering Roorkee (COER), Roorkee",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Syntax Snipers"
+  },
+  {
+    "name": "Himanshu Sharma",
+    "email": "himanshusharma01423@gmail.com",
+    "course": "College of Engineering Roorkee (COER), Roorkee",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Syntax Snipers"
+  },
+  {
+    "name": "Sarthak Saini",
+    "email": "sainisarthak60@gmail.com",
+    "course": "College of Engineering Roorkee (COER), Roorkee",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Syntax Snipers"
+  },
+  {
+    "name": "Subham Rane",
+    "email": "srane0174@gmail.com",
+    "course": "College of Engineering Roorkee (COER), Roorkee",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Syntax Snipers"
+  },
+  {
+    "name": "Shivansh Agrawal",
+    "email": "shivansh.agrprof@gmail.com",
+    "course": "IIIT Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SyntaxSquad"
+  },
+  {
+    "name": "Lovish Singla",
+    "email": "singlalovish26@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SyntaxSquad"
+  },
+  {
+    "name": "Aditya Kumar",
+    "email": "aditya05yt@gmail.com",
+    "course": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SyntaxSquad"
+  },
+  {
+    "name": "Kashish Nandwani",
+    "email": "nandwanikashish14@gmail.com",
+    "course": "Indian Institute of Information Technology, Sonepat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "SyntaxSquad"
+  },
+  {
+    "name": "Sumanyu Singh",
+    "email": "sumanyusingh7689@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "team_GENZ"
+  },
+  {
+    "name": "Abhinav Pathak",
+    "email": "abhinavpathak789@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "team_GENZ"
+  },
+  {
+    "name": "Tina Khatri",
+    "email": "tinakhatri05@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "team_GENZ"
+  },
+  {
+    "name": "Arjun Tyagi",
+    "email": "arjuntyagi077.a@gmail.com",
+    "course": "Chandigarh University (CU), Ajitgarh, Punjab",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "team_GENZ"
+  },
+  {
+    "name": "Rahul Joshi",
+    "email": "rahul08joshi05@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Metallica"
+  },
+  {
+    "name": "Km. Shivani",
+    "email": "shivaninegi1312@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Metallica"
+  },
+  {
+    "name": "Bhumi",
+    "email": "bhumi191005@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Metallica"
+  },
+  {
+    "name": "Piyush Palariya",
+    "email": "piyushpalariya8@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Metallica"
+  },
+  {
+    "name": "Abhay Kanojia",
+    "email": "abhaykanojia51@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Resolutions"
+  },
+  {
+    "name": "Priyanshu Bisht",
+    "email": "priyanshubisht304@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Resolutions"
+  },
+  {
+    "name": "Ankush Rawat",
+    "email": "ankurawat8844@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Resolutions"
+  },
+  {
+    "name": "Ankush Malik",
+    "email": "anitamalik.2016am@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Resolutions"
+  },
+  {
+    "name": "Priyam",
+    "email": "priyamthareja1@gmail.com",
+    "course": "Manohar Memorial College, Fatehabad",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Titans"
+  },
+  {
+    "name": "Mridul",
+    "email": "mridulgrover09@outlook.com",
+    "course": "Manohar Memorial College, Fatehabad",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Titans"
+  },
+  {
+    "name": "Aryan",
+    "email": "aryanjangra524@gmail.com",
+    "course": "Manohar Memorial College, Fatehabad",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Titans"
+  },
+  {
+    "name": "Daniel",
+    "email": "quantitative15@gmail.com",
+    "course": "Manohar Memorial College, Fatehabad",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Tech Titans"
+  },
+  {
+    "name": "Agrima Pant",
+    "email": "pantagrima300@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TECH VORTEX"
+  },
+  {
+    "name": "Madhav Goel",
+    "email": "goelmadhav2006@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TECH VORTEX"
+  },
+  {
+    "name": "Medha Nautiyal",
+    "email": "medhanautiyal06@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TECH VORTEX"
+  },
+  {
+    "name": "Akshat Garg",
+    "email": "Madhavakshat123@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TECH VORTEX"
+  },
+  {
+    "name": "Mohit Soni",
+    "email": "mohitsoni2006ms@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechBytes"
+  },
+  {
+    "name": "Ishita Trivedi",
+    "email": "ishita.trivedi.cg@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechBytes"
+  },
+  {
+    "name": "Arya Patel",
+    "email": "aryapatel.cg@gmail.com",
+    "course": "Rai University",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechBytes"
+  },
+  {
+    "name": "Lokesh Paneru",
+    "email": "lokeshpaneru20508@gmail.com",
+    "course": "Amrapali University, Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Techie Devs"
+  },
+  {
+    "name": "Mukesh Chandra",
+    "email": "mukeshchandra345k@gmail.com",
+    "course": "Amrapali Group of Institutes, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Techie Devs"
+  },
+  {
+    "name": "Chandan Singh Latwal",
+    "email": "chandanlatwal1529@gmail.com",
+    "course": "Amrapali University, Haldwani",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Techie Devs"
+  },
+  {
+    "name": "Kunal Bisht",
+    "email": "bishtkunal161@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Techie Devs"
+  },
+  {
+    "name": "Priyanshu Bansal",
+    "email": "priyanshujibansal@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechMate"
+  },
+  {
+    "name": "Shreya Jain",
+    "email": "shreyajain5903@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechMate"
+  },
+  {
+    "name": "Rajat Sisodia",
+    "email": "rajatsisodia1743@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechMate"
+  },
+  {
+    "name": "Pakhi Morya",
+    "email": "moryapakhi@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechMate"
+  },
+  {
+    "name": "Mohd Hassan Khan",
+    "email": "mohdhassankhan486@gmail.com",
+    "course": "Shri Ram Murti Smarak College of Engineering and Technology (SRMSCET), Bareilly",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechTornado"
+  },
+  {
+    "name": "Mohd Valeed",
+    "email": "mohdvaleedhasan@gmail.com",
+    "course": "Shri Ram Murti Smarak College of Engineering and Technology (SRMSCET), Bareilly",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechTornado"
+  },
+  {
+    "name": "Arsh Uddin",
+    "email": "uddinarsh029@gmail.com",
+    "course": "Shri Ram Murti Smarak College of Engineering and Technology (SRMSCET), Bareilly",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechTornado"
+  },
+  {
+    "name": "Amaan Ur Rehman",
+    "email": "urrehmanamaan093@gmail.com",
+    "course": "Shri Ram Murti Smarak College of Engineering and Technology (SRMSCET), Bareilly",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechTornado"
+  },
+  {
+    "name": "Arjun Madhava",
+    "email": "madhavaarjun2@gmail.com",
+    "course": "Shri Balwant Institute of Technology (SBIT), SonIpat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechVerse"
+  },
+  {
+    "name": "Ishan Aditya",
+    "email": "ishanaditya368@gmail.com",
+    "course": "Shri Balwant Institute of Technology (SBIT), SonIpat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechVerse"
+  },
+  {
+    "name": "Divyansh Shukla",
+    "email": "divyansh.shukla688@gmail.com",
+    "course": "Bhagwan Parshuram Institute of Technology (BPIT), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechVerse"
+  },
+  {
+    "name": "Tarun",
+    "email": "tarunsince05@gmail.com",
+    "course": "Shri Balwant Institute of Technology (SBIT), SonIpat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechVerse"
+  },
+  {
+    "name": "Neha Tyagi",
+    "email": "nehatyagi1717@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechX"
+  },
+  {
+    "name": "Divyam Samant",
+    "email": "samantdbum777@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechX"
+  },
+  {
+    "name": "Ayush Butola",
+    "email": "ayushbutola13@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechX"
+  },
+  {
+    "name": "Aditya Rawat",
+    "email": "rawatji0520@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TechX"
+  },
+  {
+    "name": "Deepak Singh Rawat",
+    "email": "divyanthakur856@gmail.com",
+    "course": "Dev Bhoomi Uttarakhand University, Naugaon, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Code Blooded"
+  },
+  {
+    "name": "Lalit Nandan",
+    "email": "lalitnandan19@gmail.com",
+    "course": "Dev Bhoomi Uttarakhand University, Naugaon, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Code Blooded"
+  },
+  {
+    "name": "Harikesh Kumar",
+    "email": "kashyapharikesh412@gmail.com",
+    "course": "Dev Bhoomi Uttarakhand University, Naugaon, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Code Blooded"
+  },
+  {
+    "name": "Aman Singh Kunwar",
+    "email": "amansinghkunwar07@gmail.com",
+    "course": "Dev Bhoomi Uttarakhand University, Naugaon, Uttarakhand",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Code Blooded"
+  },
+  {
+    "name": "Abhinav",
+    "email": "avi20060723@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Eskimos!"
+  },
+  {
+    "name": "Anubhav Padiyar",
+    "email": "anubhavpadiyar@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Eskimos!"
+  },
+  {
+    "name": "Abhinav Benjwal",
+    "email": "benjwalabhinav20@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Eskimos!"
+  },
+  {
+    "name": "Hariom Chamoli",
+    "email": "hchamoli11@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Eskimos!"
+  },
+  {
+    "name": "Purvansh Joshi",
+    "email": "purvanshjoshi7534011576@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Imposters"
+  },
+  {
+    "name": "Kanishk Joshi",
+    "email": "kanishkjoshi7002@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Imposters"
+  },
+  {
+    "name": "Archit Mittal",
+    "email": "work.architmittal@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Imposters"
+  },
+  {
+    "name": "Saurabh Rawat",
+    "email": "saurabhrawat1405@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Imposters"
+  },
+  {
+    "name": "Mann Upadhyay",
+    "email": "lmannupadhyay@gmail.com",
+    "course": "Jaypee University of Information Technology (JUIT), Solan",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Lives Wires"
+  },
+  {
+    "name": "Nakul Lagwal",
+    "email": "nakullagwal@gmail.com",
+    "course": "Jaypee University of Information Technology (JUIT), Solan",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Lives Wires"
+  },
+  {
+    "name": "Kavish Bansal",
+    "email": "kavishb2606@gmail.com",
+    "course": "Jaypee University of Information Technology (JUIT), Solan",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Lives Wires"
+  },
+  {
+    "name": "Vihaan Sharma",
+    "email": "vihaansharma1819@gmail.com",
+    "course": "Jaypee University of Information Technology (JUIT), Solan",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Lives Wires"
+  },
+  {
+    "name": "Priyanshu Bhatt",
+    "email": "bhattpriyansh0090@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Millennials"
+  },
+  {
+    "name": "Anshika Rawat",
+    "email": "rawatanshika007@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Millennials"
+  },
+  {
+    "name": "Vaishnavi Bisht",
+    "email": "vaishnavi745bisht@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Millennials"
+  },
+  {
+    "name": "Lucky Rawat",
+    "email": "gdg.geu.luckysinghrawat.06012004@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "The Millennials"
+  },
+  {
+    "name": "Amit Singh Bisht",
+    "email": "sarojbisht104@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Trinity"
+  },
+  {
+    "name": "Kartik Pant",
+    "email": "kartikpant.kp69@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Trinity"
+  },
+  {
+    "name": "Vivek Goswami",
+    "email": "girivivek4863@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Trinity"
+  },
+  {
+    "name": "Kapil Chand",
+    "email": "kapilchand750@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Trinity"
+  },
+  {
+    "name": "Avadut Santosh Sakpal",
+    "email": "avadutsakpal27@gmail.com",
+    "course": "Lokmanya Tilak College of Engineering (LTCE), Navi Mumbai, Maharashtra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TxTitans"
+  },
+  {
+    "name": "Husamuddin Choudhary",
+    "email": "husamuddinchoudhary7@gmail.com",
+    "course": "Lokmanya Tilak College of Engineering (LTCE), Navi Mumbai, Maharashtra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TxTitans"
+  },
+  {
+    "name": "Ranjit Bhardwaj",
+    "email": "ranjitbhardwaj1401@gmail.com",
+    "course": "Lokmanya Tilak College of Engineering (LTCE), Navi Mumbai, Maharashtra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TxTitans"
+  },
+  {
+    "name": "Shubham Maurya",
+    "email": "shubhammaurya9877@gmail.com",
+    "course": "Lokmanya Tilak College of Engineering (LTCE), Navi Mumbai, Maharashtra",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "TxTitans"
+  },
+  {
+    "name": "Anoop Singh Negi",
+    "email": "anoopnegi311@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Vanguard"
+  },
+  {
+    "name": "Amandeep",
+    "email": "bhagatamandeep50@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Vanguard"
+  },
+  {
+    "name": "Pavni Manocha",
+    "email": "pmanocha553@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Vanguard"
+  },
+  {
+    "name": "Pallavi Negi",
+    "email": "negipallavi009@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Vanguard"
+  },
+  {
+    "name": "Anubhav Dhyani",
+    "email": "dhyanianubhav2@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Var"
+  },
+  {
+    "name": "Akshit Rawat",
+    "email": "akshitrawat2121@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Var"
+  },
+  {
+    "name": "Vivek Semwal",
+    "email": "224vssemwal@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Var"
+  },
+  {
+    "name": "Vaibhav Pokhriyal",
+    "email": "vaibhavpokhriyal12345678@gmail.com",
+    "course": "THDC Institute of Hydropower Engineering and Technology",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Var"
+  },
+  {
+    "name": "Aman Parashar ",
+    "email": "amanparashar0911@gmail.com",
+    "course": "GLA UNIVERSITY ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Vencedor"
+  },
+  {
+    "name": "Divyansh Patel",
+    "email": "divyansh.patel_cs.csf23@gla.ac.in",
+    "course": "GLA UNIVERSITY ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Vencedor"
+  },
+  {
+    "name": "Uday Bansal ",
+    "email": "uday.bansal_cs.aiml23@gla.ac.in",
+    "course": "Mathura",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Vencedor"
+  },
+  {
+    "name": "Pratham Chaturvedi ",
+    "email": "pratham.chaturvedi_cs.aiml23@gla.ac.in",
+    "course": "GLA UNIVERSITY ",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Vencedor"
+  },
+  {
+    "name": "Manthan Garg",
+    "email": "gargmanthan525@gmail.com",
+    "course": "SRM University, Sonipat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "vision"
+  },
+  {
+    "name": "Jayant Singh",
+    "email": "11024210248@stu.srmuniversity.ac.in",
+    "course": "SRM University, Sonipat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "vision"
+  },
+  {
+    "name": "Siddharth Mathur",
+    "email": "16mathursiddharth@gmail.com",
+    "course": "SRM University, Sonipat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "vision"
+  },
+  {
+    "name": "Suvijya Arya",
+    "email": "suvijya123@gmail.com",
+    "course": "SRM University, Sonipat",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "vision"
+  },
+  {
+    "name": "Jyoti",
+    "email": "chandilajiya81@gmail.com",
+    "course": "Amity University (AU), Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "VisionFlux"
+  },
+  {
+    "name": "Dhrumil Parikh",
+    "email": "dhrumil1701@gmail.com",
+    "course": "Amity University (AU), Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "VisionFlux"
+  },
+  {
+    "name": "Jaskaranjeet Singh",
+    "email": "jaskaranjits020@gmail.com",
+    "course": "Amity University (AU), Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "VisionFlux"
+  },
+  {
+    "name": "Yashika Verma",
+    "email": "yashikavermaa24@gmail.com",
+    "course": "Amity University (AU), Noida",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "VisionFlux"
+  },
+  {
+    "name": "Yashasvi Pandey",
+    "email": "yashasvipandey2912@gmail.com",
+    "course": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Waystar RoyCo"
+  },
+  {
+    "name": "Arjun Sharma",
+    "email": "arjunthesun@gmail.com",
+    "course": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Waystar RoyCo"
+  },
+  {
+    "name": "Shivansh Sharma",
+    "email": "shivanshsharma9314@gmail.com",
+    "course": "Vivekananda Institute of Professional Studies (VIPS), Delhi",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Waystar RoyCo"
+  },
+  {
+    "name": "Daksh Jaitly",
+    "email": "dakshjaitly11@gmail.com",
+    "course": "Vivekananda Institute of professional studies-Technical Campus",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Waystar RoyCo"
+  },
+  {
+    "name": "Sanjay Singh Bungla",
+    "email": "dynsanjay@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ZENITH"
+  },
+  {
+    "name": "Ayaan Usmani",
+    "email": "ayaanusmani2005@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ZENITH"
+  },
+  {
+    "name": "Digar Singh",
+    "email": "digarsingh2004@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ZENITH"
+  },
+  {
+    "name": "Pranav Maheshwari",
+    "email": "pranavm494@gmail.com",
+    "course": "Graphic Era (Deemed to be University) (GEU), Dehradun",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "ZENITH"
+  },
+  {
+    "name": "Umang Singh",
+    "email": "umangsingh1076@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Zero to launch"
+  },
+  {
+    "name": "Gaurav Kumar",
+    "email": "gk06012006@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Zero to launch"
+  },
+  {
+    "name": "Ayush Bhatt",
+    "email": "ayush.bhatt3255@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Zero to launch"
+  },
+  {
+    "name": "Daksh Pathak",
+    "email": "dakshpathak2208@gmail.com",
+    "course": "Graphic Era Hill University (GEHU), Bhimtal",
+    "event": "Hack The Winter, 2026",
+    "club": "WeCode",
+    "date": "2026-01-22/23",
+    "student_id": "Zero to launch"
+  }
+]
